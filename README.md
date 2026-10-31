@@ -83,6 +83,28 @@ SalesSense/
 └── .gitignore
 ```
 
+## Application Screenshots
+
+### 1. Overview Dashboard
+
+![Overview](assets/screenshots/overview.png)
+
+### 2. Sales Analytics
+
+![Sales Analytics](assets/screenshots/sales_analytics.png)
+
+### 3. Customer Intelligence
+
+![Customer Intelligence](assets/screenshots/customer_intelligence.png)
+
+### 4. Sales Forecast
+
+![Sales Forecast](assets/screenshots/sales_forecast.png)
+
+### 5. Transactions
+
+![Transactions](assets/screenshots/transactions.png)
+
 ## Installation
 
 Clone the repository:
