@@ -1,35 +1,56 @@
-# SalesSense – Sales Analytics & Predictive Intelligence
+# SalesSense — Sales Analytics & Predictive Intelligence
 
-An interactive sales analytics application built using Python, Pandas, NumPy, Plotly, Streamlit and Scikit-learn.
+<p align="center">
+  <strong>Explore sales performance. Understand customers. Experiment with forecasting.</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Framework-Streamlit-red?logo=streamlit" />
+  <img src="https://img.shields.io/badge/ML-Scikit--learn-orange?logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/Testing-Pytest-blue?logo=pytest" />
+</p>
 
 ## Overview
 
-SalesSense helps businesses analyze sales transactions, monitor revenue performance, identify business trends and experiment with predictive sales forecasting.
+SalesSense is an interactive sales analytics application developed using Python.
+
+It helps analyze sales transactions, monitor revenue performance, understand customer purchasing behaviour and experiment with Machine Learning-based sales forecasting.
 
 ## Features
 
-* Sales performance monitoring
-* Revenue and order analytics
-* Product-wise sales analysis
-* Regional performance analysis
-* Customer analytics
-* Data preprocessing and cleaning
-* Interactive Streamlit dashboard
-* Automated business insights
-* Experimental 30-day sales forecasting
-* CSV report export
+* Interactive sales analytics dashboard.
+* Revenue and order monitoring.
+* Product and category performance analysis.
+* Regional sales analysis.
+* Customer segmentation using K-Means.
+* Automated business insights.
+* Experimental sales forecasting using Random Forest.
+* Interactive data visualization.
+* CSV report export.
+* Data preprocessing and validation.
+
+## Dashboard Modules
+
+| Module                | Description                                 |
+| --------------------- | ------------------------------------------- |
+| Overview              | Revenue, orders, customers and sales trends |
+| Sales Analytics       | Product, category and regional analysis     |
+| Customer Intelligence | Customer segmentation                       |
+| Sales Forecast        | Experimental sales prediction               |
+| Transactions          | Transaction exploration and CSV export      |
 
 ## Technology Stack
 
-| Technology   | Usage                     |
+| Technology   | Purpose                   |
 | ------------ | ------------------------- |
 | Python       | Core programming          |
 | Pandas       | Data manipulation         |
-| NumPy        | Numerical operations      |
+| NumPy        | Numerical computation     |
 | Matplotlib   | Data visualization        |
 | Seaborn      | Statistical visualization |
 | Plotly       | Interactive charts        |
-| Streamlit    | Dashboard                 |
+| Streamlit    | Web dashboard             |
 | Scikit-learn | Machine Learning          |
 | Pytest       | Unit testing              |
 
@@ -37,13 +58,29 @@ SalesSense helps businesses analyze sales transactions, monitor revenue performa
 
 ```text
 SalesSense/
+│
 ├── data/
+│   └── sales_data.csv
+│
 ├── src/
+│   ├── data_preprocessing.py
+│   ├── analysis.py
+│   ├── visualization.py
+│   ├── business_insights.py
+│   ├── sales_prediction.py
+│   └── customer_segmentation.py
+│
 ├── tests/
+│   └── test_preprocessing.py
+│
+├── assets/
+│   └── screenshots/
+│
 ├── app.py
 ├── generate_data.py
 ├── requirements.txt
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ## Installation
@@ -51,7 +88,8 @@ SalesSense/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/chiragsamaiya05-design/SalesSense.git
+
 cd SalesSense
 ```
 
@@ -61,19 +99,19 @@ Create a virtual environment:
 python -m venv venv
 ```
 
-Activate it:
+Activate it on Windows:
 
-```bash
-venv\Scripts\activate
+```powershell
+.\venv\Scripts\Activate.ps1
 ```
 
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
-Generate the dataset:
+Generate the dataset if it is not already available:
 
 ```bash
 python generate_data.py
@@ -87,26 +125,52 @@ streamlit run app.py
 
 ## Machine Learning
 
-SalesSense uses a Random Forest Regressor to experiment with daily sales forecasting.
+SalesSense implements two Machine Learning approaches.
 
-Model evaluation metrics:
+**1. Customer Segmentation**
 
-* Mean Absolute Error (MAE)
-* Root Mean Squared Error (RMSE)
-* R² Score
+* K-Means clustering.
+* StandardScaler.
+* Customer-level feature engineering.
 
-The generated dataset is synthetic, so forecasting results are intended for experimentation rather than real-world business decisions.
+**2. Sales Forecasting**
+
+* Random Forest Regressor.
+* Time-based feature engineering.
+* Historical sales features.
+* Chronological train-test split.
+* MAE, RMSE and R² evaluation.
+
+Note: The current dataset is synthetically generated. Predictions and customer segments are experimental demonstrations, not validated business recommendations.
+
+## Testing
+
+Run unit tests:
+
+```bash
+python -m pytest tests/ -v
+```
+
+Current preprocessing tests cover:
+
+* Duplicate removal.
+* Missing-value handling.
+* Date conversion.
+* Feature engineering.
+* Sales calculation.
 
 ## Future Improvements
 
-* Real-world retail datasets
-* Advanced time-series forecasting
-* Customer segmentation using clustering
-* Sales anomaly detection
-* Database integration
-* User authentication
-* Cloud deployment
+* Integration with real-world retail datasets.
+* Advanced time-series forecasting.
+* Customer segmentation evaluation.
+* Sales anomaly detection.
+* Database integration.
+* Improved dashboard filtering.
+* Cloud deployment.
 
 ## Author
 
-Chirag Samaiya
+**Chirag Samaiya**
+
+GitHub: https://github.com/chiragsamaiya05-design
