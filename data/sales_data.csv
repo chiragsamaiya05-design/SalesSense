@@ -1,0 +1,1006 @@
+Order_ID,Customer_ID,Product,Category,Region,Quantity,Unit_Price,Payment_Method,Order_Date,Total_Sales
+1001,203,Keyboard,Electronics,North,2,5094.0,Debit Card,2025-01-01,10188
+1002,280,Headphones,Accessories,North,5,26025.0,Cash,2025-01-02,130125
+1003,193,Mobile,Computers,East,5,14782.0,Credit Card,2025-01-03,73910
+1004,115,Mobile,Electronics,North,3,49553.0,Debit Card,2025-01-04,148659
+1005,207,Tablet,Computers,West,5,14834.0,Debit Card,2025-01-05,74170
+1006,172,Tablet,Electronics,North,5,29679.0,UPI,2025-01-06,148395
+1007,289,Keyboard,Accessories,West,1,7144.0,Debit Card,2025-01-07,7144
+1008,121,Keyboard,Electronics,South,4,36118.0,Cash,2025-01-08,144472
+1009,203,Laptop,Electronics,South,3,48201.0,Debit Card,2025-01-09,144603
+1010,222,Laptop,Computers,South,1,33433.0,Credit Card,2025-01-10,33433
+1011,175,Keyboard,Computers,South,4,,Debit Card,2025-01-11,175876
+1012,188,Keyboard,Accessories,North,1,,UPI,2025-01-12,34187
+1013,217,Headphones,Electronics,East,1,,Credit Card,2025-01-13,41573
+1014,200,Tablet,Electronics,North,5,,Credit Card,2025-01-14,89375
+1015,204,Laptop,Electronics,West,4,,UPI,2025-01-15,195932
+1016,252,Tablet,Accessories,North,3,,Cash,2025-01-16,94278
+1017,231,Tablet,Accessories,North,3,37107.0,Credit Card,2025-01-17,111321
+1018,250,Keyboard,Accessories,West,4,18142.0,Cash,2025-01-18,72568
+1019,153,Headphones,Accessories,South,5,24493.0,Credit Card,2025-01-19,122465
+1020,102,Mobile,Accessories,South,2,44886.0,Credit Card,2025-01-20,89772
+1021,188,Headphones,Computers,South,1,46787.0,Cash,2025-01-21,46787
+1022,258,Headphones,Electronics,East,5,21688.0,Credit Card,2025-01-22,108440
+1023,138,Tablet,Electronics,West,4,33096.0,Cash,2025-01-23,132384
+1024,230,Headphones,Electronics,West,1,28272.0,UPI,2025-01-24,28272
+1025,292,Laptop,Electronics,North,3,31357.0,Cash,2025-01-25,94071
+1026,288,Tablet,Electronics,East,2,11276.0,UPI,2025-01-26,22552
+1027,121,Laptop,Electronics,South,3,33335.0,Credit Card,2025-01-27,100005
+1028,261,Mobile,Electronics,East,4,10288.0,Cash,2025-01-28,41152
+1029,158,Tablet,Electronics,West,1,6160.0,Credit Card,2025-01-29,6160
+1030,122,Mobile,Computers,West,4,4978.0,Cash,2025-01-30,19912
+1031,189,Tablet,Electronics,North,1,8710.0,UPI,2025-01-31,8710
+1032,149,Keyboard,Computers,North,5,11422.0,UPI,2025-02-01,57110
+1033,159,Headphones,Accessories,West,2,36789.0,Cash,2025-02-02,73578
+1034,270,Keyboard,Electronics,South,5,33840.0,UPI,2025-02-03,169200
+1035,288,Mobile,Accessories,South,5,40350.0,Credit Card,2025-02-04,201750
+1036,115,Headphones,Accessories,East,4,38663.0,Credit Card,2025-02-05,154652
+1037,290,Tablet,Accessories,West,2,48675.0,Debit Card,2025-02-06,97350
+1038,290,Headphones,Computers,West,1,19142.0,UPI,2025-02-07,19142
+1039,275,Laptop,Accessories,South,1,11594.0,Credit Card,2025-02-08,11594
+1040,290,Headphones,Accessories,South,3,22923.0,Cash,2025-02-09,68769
+1041,151,Laptop,Accessories,West,1,33918.0,UPI,2025-02-10,33918
+1042,208,Headphones,Electronics,North,4,6241.0,Credit Card,2025-02-11,24964
+1043,155,Laptop,Electronics,West,5,46549.0,UPI,2025-02-12,232745
+1044,164,Mobile,Computers,West,5,7338.0,Cash,2025-02-13,36690
+1045,231,Keyboard,Computers,South,5,3762.0,Credit Card,2025-02-14,18810
+1046,151,Tablet,Electronics,South,2,5496.0,Debit Card,2025-02-15,10992
+1047,235,Headphones,Computers,North,1,45094.0,Debit Card,2025-02-16,45094
+1048,121,Keyboard,Electronics,North,4,22664.0,UPI,2025-02-17,90656
+1049,173,Tablet,Accessories,East,2,36095.0,Cash,2025-02-18,72190
+1050,267,Tablet,Accessories,West,3,30757.0,Credit Card,2025-02-19,92271
+1051,118,Laptop,Computers,South,4,14711.0,Cash,2025-02-20,58844
+1052,232,Mobile,Electronics,North,4,30953.0,Credit Card,2025-02-21,123812
+1053,189,Mobile,Electronics,East,4,5732.0,UPI,2025-02-22,22928
+1054,160,Keyboard,Computers,East,5,2717.0,Credit Card,2025-02-23,13585
+1055,114,Mobile,Electronics,South,4,24729.0,Cash,2025-02-24,98916
+1056,109,Headphones,Accessories,South,1,14732.0,Cash,2025-02-25,14732
+1057,190,Mobile,Computers,East,4,26113.0,UPI,2025-02-26,104452
+1058,153,Keyboard,Computers,North,5,14526.0,Cash,2025-02-27,72630
+1059,230,Mobile,Electronics,East,4,29054.0,Credit Card,2025-02-28,116216
+1060,184,Headphones,Computers,West,3,31408.0,UPI,2025-03-01,94224
+1061,192,Laptop,Electronics,West,3,20110.0,Credit Card,2025-03-02,60330
+1062,211,Keyboard,Electronics,South,5,47146.0,Cash,2025-03-03,235730
+1063,288,Laptop,Electronics,North,1,40105.0,UPI,2025-03-04,40105
+1064,299,Laptop,Electronics,North,1,7531.0,Credit Card,2025-03-05,7531
+1065,272,Laptop,Electronics,West,2,48074.0,Cash,2025-03-06,96148
+1066,108,Tablet,Computers,East,5,26015.0,Cash,2025-03-07,130075
+1067,275,Tablet,Accessories,South,4,36984.0,Debit Card,2025-03-08,147936
+1068,135,Laptop,Accessories,East,5,36682.0,Cash,2025-03-09,183410
+1069,181,Keyboard,Computers,East,2,1070.0,Credit Card,2025-03-10,2140
+1070,264,Headphones,Computers,East,5,32754.0,UPI,2025-03-11,163770
+1071,150,Headphones,Accessories,North,5,19788.0,Debit Card,2025-03-12,98940
+1072,204,Mobile,Accessories,West,2,13788.0,Cash,2025-03-13,27576
+1073,232,Keyboard,Accessories,North,1,30377.0,Cash,2025-03-14,30377
+1074,102,Tablet,Accessories,West,4,19389.0,Cash,2025-03-15,77556
+1075,234,Laptop,Accessories,South,2,1417.0,Credit Card,2025-03-16,2834
+1076,154,Mobile,Electronics,South,3,10566.0,Debit Card,2025-03-17,31698
+1077,206,Headphones,Computers,East,1,30004.0,Credit Card,2025-03-18,30004
+1078,104,Tablet,Electronics,West,3,7482.0,Debit Card,2025-03-19,22446
+1079,154,Tablet,Accessories,West,1,39604.0,UPI,2025-03-20,39604
+1080,291,Laptop,Accessories,West,4,18562.0,Credit Card,2025-03-21,74248
+1081,246,Headphones,Accessories,East,4,17499.0,Credit Card,2025-03-22,69996
+1082,144,Keyboard,Electronics,East,5,10441.0,UPI,2025-03-23,52205
+1083,262,Tablet,Electronics,South,3,23970.0,Debit Card,2025-03-24,71910
+1084,290,Laptop,Accessories,North,1,45648.0,Cash,2025-03-25,45648
+1085,114,Keyboard,Electronics,West,4,21633.0,UPI,2025-03-26,86532
+1086,195,Headphones,Electronics,West,2,44935.0,Cash,2025-03-27,89870
+1087,148,Tablet,Accessories,North,4,5029.0,Cash,2025-03-28,20116
+1088,115,Keyboard,Electronics,West,2,18019.0,UPI,2025-03-29,36038
+1089,290,Keyboard,Computers,East,1,12692.0,Debit Card,2025-03-30,12692
+1090,140,Keyboard,Computers,East,4,9066.0,Cash,2025-03-31,36264
+1091,182,Tablet,Computers,West,4,7726.0,UPI,2025-04-01,30904
+1092,211,Tablet,Computers,East,1,38430.0,Credit Card,2025-04-02,38430
+1093,153,Mobile,Accessories,East,4,49858.0,Credit Card,2025-04-03,199432
+1094,124,Headphones,Accessories,West,2,21759.0,Credit Card,2025-04-04,43518
+1095,254,Laptop,Accessories,South,4,34587.0,UPI,2025-04-05,138348
+1096,288,Keyboard,Computers,North,3,1641.0,Credit Card,2025-04-06,4923
+1097,224,Mobile,Computers,East,5,5127.0,Cash,2025-04-07,25635
+1098,141,Laptop,Electronics,South,2,47769.0,Credit Card,2025-04-08,95538
+1099,257,Mobile,Electronics,East,3,3190.0,Credit Card,2025-04-09,9570
+1100,115,Tablet,Computers,East,1,40591.0,Cash,2025-04-10,40591
+1101,145,Keyboard,Computers,North,2,3755.0,Credit Card,2025-04-11,7510
+1102,165,Laptop,Computers,East,5,5713.0,Cash,2025-04-12,28565
+1103,189,Laptop,Computers,North,5,37376.0,Credit Card,2025-04-13,186880
+1104,171,Laptop,Electronics,North,1,19904.0,Cash,2025-04-14,19904
+1105,109,Laptop,Computers,North,1,25880.0,Credit Card,2025-04-15,25880
+1106,188,Laptop,Electronics,South,2,26020.0,Cash,2025-04-16,52040
+1107,229,Mobile,Computers,West,4,19673.0,UPI,2025-04-17,78692
+1108,236,Keyboard,Computers,South,1,24489.0,Cash,2025-04-18,24489
+1109,163,Tablet,Computers,West,4,43070.0,Credit Card,2025-04-19,172280
+1110,239,Tablet,Electronics,West,3,25019.0,Credit Card,2025-04-20,75057
+1111,181,Tablet,Electronics,North,5,22939.0,Debit Card,2025-04-21,114695
+1112,236,Tablet,Accessories,East,4,11913.0,Cash,2025-04-22,47652
+1113,263,Mobile,Computers,North,5,15495.0,UPI,2025-04-23,77475
+1114,263,Headphones,Accessories,East,4,24059.0,Cash,2025-04-24,96236
+1115,133,Keyboard,Accessories,West,3,45851.0,Cash,2025-04-25,137553
+1116,223,Laptop,Electronics,North,1,24013.0,UPI,2025-04-26,24013
+1117,105,Headphones,Electronics,East,3,5521.0,Cash,2025-04-27,16563
+1118,141,Tablet,Accessories,South,1,32964.0,UPI,2025-04-28,32964
+1119,128,Headphones,Computers,East,1,21619.0,UPI,2025-04-29,21619
+1120,235,Keyboard,Electronics,North,5,29799.0,Cash,2025-04-30,148995
+1121,172,Laptop,Computers,South,3,39850.0,Cash,2025-05-01,119550
+1122,112,Laptop,Computers,East,4,46723.0,Credit Card,2025-05-02,186892
+1123,262,Keyboard,Accessories,East,3,26017.0,Credit Card,2025-05-03,78051
+1124,133,Keyboard,Accessories,East,5,13617.0,Debit Card,2025-05-04,68085
+1125,148,Tablet,Accessories,East,1,22750.0,Debit Card,2025-05-05,22750
+1126,251,Laptop,Accessories,East,5,19450.0,Cash,2025-05-06,97250
+1127,162,Headphones,Electronics,South,2,17859.0,UPI,2025-05-07,35718
+1128,137,Mobile,Electronics,West,2,24096.0,Debit Card,2025-05-08,48192
+1129,199,Mobile,Accessories,South,4,26030.0,Cash,2025-05-09,104120
+1130,272,Keyboard,Electronics,South,5,1762.0,Debit Card,2025-05-10,8810
+1131,204,Tablet,Accessories,South,4,40650.0,UPI,2025-05-11,162600
+1132,135,Mobile,Computers,West,4,23115.0,Cash,2025-05-12,92460
+1133,293,Laptop,Computers,North,2,3827.0,UPI,2025-05-13,7654
+1134,201,Keyboard,Computers,West,4,30268.0,Cash,2025-05-14,121072
+1135,275,Headphones,Accessories,South,2,29350.0,Debit Card,2025-05-15,58700
+1136,231,Keyboard,Computers,East,1,43288.0,Credit Card,2025-05-16,43288
+1137,101,Headphones,Electronics,East,5,17348.0,Debit Card,2025-05-17,86740
+1138,105,Keyboard,Computers,South,4,47330.0,Debit Card,2025-05-18,189320
+1139,242,Keyboard,Computers,East,2,40042.0,Credit Card,2025-05-19,80084
+1140,203,Keyboard,Computers,South,3,15660.0,Credit Card,2025-05-20,46980
+1141,127,Headphones,Electronics,East,4,34498.0,Cash,2025-05-21,137992
+1142,237,Headphones,Accessories,West,1,27730.0,Cash,2025-05-22,27730
+1143,115,Keyboard,Electronics,North,1,9576.0,UPI,2025-05-23,9576
+1144,190,Mobile,Accessories,North,3,4305.0,UPI,2025-05-24,12915
+1145,142,Tablet,Accessories,West,2,31585.0,Debit Card,2025-05-25,63170
+1146,224,Tablet,Computers,West,4,15215.0,Credit Card,2025-05-26,60860
+1147,279,Tablet,Accessories,South,2,6250.0,UPI,2025-05-27,12500
+1148,163,Headphones,Electronics,South,1,48895.0,Debit Card,2025-05-28,48895
+1149,196,Headphones,Electronics,South,2,13732.0,Credit Card,2025-05-29,27464
+1150,152,Mobile,Accessories,East,1,36403.0,Cash,2025-05-30,36403
+1151,196,Tablet,Computers,South,2,7453.0,Debit Card,2025-05-31,14906
+1152,232,Tablet,Computers,West,3,32593.0,Cash,2025-06-01,97779
+1153,251,Keyboard,Electronics,North,5,26000.0,UPI,2025-06-02,130000
+1154,243,Headphones,Computers,East,3,22918.0,UPI,2025-06-03,68754
+1155,271,Tablet,Accessories,South,3,34814.0,Credit Card,2025-06-04,104442
+1156,129,Mobile,Accessories,East,5,48725.0,Debit Card,2025-06-05,243625
+1157,136,Mobile,Electronics,East,5,22949.0,Cash,2025-06-06,114745
+1158,113,Tablet,Accessories,South,4,17978.0,Credit Card,2025-06-07,71912
+1159,260,Headphones,Electronics,East,4,35679.0,UPI,2025-06-08,142716
+1160,171,Mobile,Accessories,North,3,47381.0,UPI,2025-06-09,142143
+1161,287,Keyboard,Electronics,West,3,25838.0,Debit Card,2025-06-10,77514
+1162,186,Mobile,Computers,West,1,27399.0,Cash,2025-06-11,27399
+1163,128,Laptop,Accessories,North,1,4645.0,Debit Card,2025-06-12,4645
+1164,166,Laptop,Accessories,East,4,32601.0,Cash,2025-06-13,130404
+1165,270,Headphones,Electronics,South,4,3275.0,Cash,2025-06-14,13100
+1166,145,Tablet,Electronics,East,1,46461.0,Debit Card,2025-06-15,46461
+1167,162,Headphones,Accessories,North,1,32147.0,Credit Card,2025-06-16,32147
+1168,285,Headphones,Electronics,East,2,46119.0,Debit Card,2025-06-17,92238
+1169,234,Headphones,Accessories,West,2,46338.0,Debit Card,2025-06-18,92676
+1170,128,Headphones,Computers,East,1,20039.0,UPI,2025-06-19,20039
+1171,128,Keyboard,Electronics,North,2,37238.0,UPI,2025-06-20,74476
+1172,208,Keyboard,Accessories,West,5,27116.0,Debit Card,2025-06-21,135580
+1173,144,Mobile,Computers,East,4,14619.0,Debit Card,2025-06-22,58476
+1174,184,Laptop,Computers,East,4,25659.0,UPI,2025-06-23,102636
+1175,130,Headphones,Accessories,West,1,37599.0,Cash,2025-06-24,37599
+1176,290,Mobile,Electronics,South,3,10795.0,Debit Card,2025-06-25,32385
+1177,175,Laptop,Accessories,West,1,35210.0,Credit Card,2025-06-26,35210
+1178,228,Tablet,Computers,South,2,25185.0,Credit Card,2025-06-27,50370
+1179,192,Keyboard,Accessories,North,3,49843.0,Credit Card,2025-06-28,149529
+1180,290,Laptop,Electronics,North,2,25979.0,Debit Card,2025-06-29,51958
+1181,229,Tablet,Computers,West,5,46672.0,Cash,2025-06-30,233360
+1182,221,Laptop,Accessories,West,2,34129.0,Cash,2025-07-01,68258
+1183,127,Keyboard,Electronics,North,5,42543.0,UPI,2025-07-02,212715
+1184,290,Keyboard,Computers,South,5,17533.0,Debit Card,2025-07-03,87665
+1185,221,Mobile,Electronics,North,2,37402.0,Cash,2025-07-04,74804
+1186,216,Headphones,Computers,West,2,45071.0,Debit Card,2025-07-05,90142
+1187,103,Laptop,Accessories,North,5,15908.0,UPI,2025-07-06,79540
+1188,203,Laptop,Electronics,West,3,17920.0,UPI,2025-07-07,53760
+1189,298,Tablet,Computers,West,5,16851.0,UPI,2025-07-08,84255
+1190,255,Keyboard,Electronics,North,4,4631.0,Credit Card,2025-07-09,18524
+1191,237,Laptop,Electronics,South,5,45325.0,Debit Card,2025-07-10,226625
+1192,162,Keyboard,Accessories,East,3,11849.0,UPI,2025-07-11,35547
+1193,265,Laptop,Electronics,North,4,44754.0,Debit Card,2025-07-12,179016
+1194,151,Mobile,Computers,East,1,38725.0,Credit Card,2025-07-13,38725
+1195,272,Headphones,Computers,North,1,39347.0,Credit Card,2025-07-14,39347
+1196,252,Laptop,Computers,East,3,12953.0,UPI,2025-07-15,38859
+1197,159,Keyboard,Computers,South,5,19314.0,UPI,2025-07-16,96570
+1198,218,Mobile,Accessories,South,2,18763.0,Cash,2025-07-17,37526
+1199,260,Laptop,Electronics,North,3,12658.0,Debit Card,2025-07-18,37974
+1200,196,Tablet,Accessories,West,4,16235.0,UPI,2025-07-19,64940
+1201,280,Headphones,Electronics,East,4,16330.0,Cash,2025-07-20,65320
+1202,213,Laptop,Electronics,West,1,48393.0,Debit Card,2025-07-21,48393
+1203,162,Mobile,Electronics,West,4,45173.0,UPI,2025-07-22,180692
+1204,286,Tablet,Accessories,West,3,24426.0,Cash,2025-07-23,73278
+1205,152,Mobile,Electronics,South,4,45566.0,Cash,2025-07-24,182264
+1206,112,Mobile,Accessories,North,3,35279.0,Debit Card,2025-07-25,105837
+1207,139,Tablet,Computers,North,2,3873.0,Cash,2025-07-26,7746
+1208,230,Mobile,Computers,South,1,10835.0,Debit Card,2025-07-27,10835
+1209,231,Tablet,Electronics,South,4,24241.0,Debit Card,2025-07-28,96964
+1210,213,Laptop,Accessories,North,3,11192.0,Debit Card,2025-07-29,33576
+1211,201,Tablet,Computers,West,5,47795.0,Credit Card,2025-07-30,238975
+1212,213,Tablet,Accessories,East,1,46041.0,Cash,2025-07-31,46041
+1213,284,Headphones,Accessories,East,2,34557.0,Debit Card,2025-08-01,69114
+1214,181,Tablet,Electronics,East,3,1947.0,UPI,2025-08-02,5841
+1215,287,Tablet,Computers,West,2,20083.0,Credit Card,2025-08-03,40166
+1216,213,Laptop,Electronics,North,2,23265.0,Credit Card,2025-08-04,46530
+1217,102,Headphones,Electronics,South,4,24406.0,Cash,2025-08-05,97624
+1218,230,Keyboard,Computers,North,4,20067.0,Debit Card,2025-08-06,80268
+1219,154,Laptop,Computers,West,3,14639.0,Cash,2025-08-07,43917
+1220,187,Laptop,Accessories,South,5,47025.0,Credit Card,2025-08-08,235125
+1221,229,Keyboard,Computers,West,3,38730.0,Debit Card,2025-08-09,116190
+1222,247,Tablet,Accessories,East,5,20020.0,UPI,2025-08-10,100100
+1223,226,Mobile,Accessories,East,2,20202.0,Debit Card,2025-08-11,40404
+1224,230,Headphones,Accessories,West,1,26066.0,Credit Card,2025-08-12,26066
+1225,153,Mobile,Computers,South,3,8157.0,UPI,2025-08-13,24471
+1226,272,Keyboard,Electronics,South,3,38188.0,Debit Card,2025-08-14,114564
+1227,260,Laptop,Accessories,North,5,30634.0,UPI,2025-08-15,153170
+1228,298,Laptop,Electronics,East,2,10845.0,UPI,2025-08-16,21690
+1229,260,Headphones,Electronics,North,2,41685.0,Credit Card,2025-08-17,83370
+1230,168,Laptop,Computers,North,5,27913.0,UPI,2025-08-18,139565
+1231,283,Laptop,Electronics,West,2,5708.0,Cash,2025-08-19,11416
+1232,284,Headphones,Electronics,West,4,33955.0,Credit Card,2025-08-20,135820
+1233,223,Headphones,Computers,North,1,28518.0,Cash,2025-08-21,28518
+1234,245,Keyboard,Accessories,East,3,46491.0,UPI,2025-08-22,139473
+1235,138,Laptop,Electronics,West,1,8580.0,Cash,2025-08-23,8580
+1236,124,Laptop,Computers,North,3,22402.0,Debit Card,2025-08-24,67206
+1237,169,Keyboard,Electronics,North,4,9986.0,UPI,2025-08-25,39944
+1238,216,Tablet,Electronics,North,2,39362.0,Debit Card,2025-08-26,78724
+1239,198,Tablet,Accessories,North,5,21658.0,Cash,2025-08-27,108290
+1240,298,Tablet,Electronics,North,4,40960.0,Debit Card,2025-08-28,163840
+1241,239,Keyboard,Computers,North,1,44356.0,UPI,2025-08-29,44356
+1242,244,Laptop,Electronics,West,5,36371.0,Debit Card,2025-08-30,181855
+1243,197,Keyboard,Accessories,East,2,35708.0,Cash,2025-08-31,71416
+1244,224,Keyboard,Accessories,North,4,21019.0,Cash,2025-09-01,84076
+1245,287,Tablet,Computers,South,5,31879.0,Cash,2025-09-02,159395
+1246,170,Mobile,Accessories,West,4,28878.0,UPI,2025-09-03,115512
+1247,193,Laptop,Electronics,West,4,40392.0,Cash,2025-09-04,161568
+1248,103,Tablet,Accessories,North,2,14531.0,UPI,2025-09-05,29062
+1249,248,Mobile,Computers,West,3,15036.0,Debit Card,2025-09-06,45108
+1250,287,Mobile,Accessories,North,5,946.0,Cash,2025-09-07,4730
+1251,264,Headphones,Accessories,East,2,37183.0,Debit Card,2025-09-08,74366
+1252,247,Laptop,Accessories,East,4,49055.0,Credit Card,2025-09-09,196220
+1253,190,Mobile,Computers,West,2,18118.0,Debit Card,2025-09-10,36236
+1254,295,Tablet,Accessories,West,3,7087.0,Credit Card,2025-09-11,21261
+1255,247,Headphones,Accessories,South,5,31980.0,Debit Card,2025-09-12,159900
+1256,248,Laptop,Electronics,West,3,33494.0,UPI,2025-09-13,100482
+1257,196,Keyboard,Computers,South,1,21027.0,Debit Card,2025-09-14,21027
+1258,299,Tablet,Accessories,East,5,24069.0,UPI,2025-09-15,120345
+1259,152,Mobile,Computers,East,3,11651.0,UPI,2025-09-16,34953
+1260,261,Mobile,Accessories,North,4,6058.0,Cash,2025-09-17,24232
+1261,268,Tablet,Accessories,East,5,45239.0,UPI,2025-09-18,226195
+1262,228,Mobile,Accessories,South,5,33454.0,Credit Card,2025-09-19,167270
+1263,139,Headphones,Electronics,West,2,47948.0,Cash,2025-09-20,95896
+1264,182,Laptop,Electronics,North,4,47827.0,Cash,2025-09-21,191308
+1265,204,Headphones,Electronics,South,1,44337.0,Debit Card,2025-09-22,44337
+1266,229,Mobile,Computers,West,3,35803.0,UPI,2025-09-23,107409
+1267,111,Keyboard,Computers,North,2,35200.0,UPI,2025-09-24,70400
+1268,285,Laptop,Electronics,East,3,28000.0,Credit Card,2025-09-25,84000
+1269,278,Laptop,Computers,South,1,2532.0,Debit Card,2025-09-26,2532
+1270,251,Tablet,Accessories,West,1,1752.0,Debit Card,2025-09-27,1752
+1271,259,Tablet,Accessories,North,5,6009.0,Cash,2025-09-28,30045
+1272,142,Keyboard,Accessories,North,1,38342.0,Cash,2025-09-29,38342
+1273,199,Laptop,Electronics,East,3,14400.0,Cash,2025-09-30,43200
+1274,107,Keyboard,Computers,West,4,15023.0,Credit Card,2025-10-01,60092
+1275,244,Tablet,Electronics,East,4,2381.0,Credit Card,2025-10-02,9524
+1276,190,Tablet,Computers,East,5,33537.0,Cash,2025-10-03,167685
+1277,212,Laptop,Accessories,West,3,2130.0,Debit Card,2025-10-04,6390
+1278,160,Headphones,Electronics,West,3,21289.0,Credit Card,2025-10-05,63867
+1279,213,Mobile,Computers,West,1,23023.0,Debit Card,2025-10-06,23023
+1280,102,Tablet,Computers,South,3,18458.0,Debit Card,2025-10-07,55374
+1281,229,Tablet,Accessories,West,2,46651.0,UPI,2025-10-08,93302
+1282,148,Headphones,Electronics,North,1,49420.0,Cash,2025-10-09,49420
+1283,240,Headphones,Electronics,East,2,44352.0,UPI,2025-10-10,88704
+1284,297,Keyboard,Electronics,South,5,2195.0,Cash,2025-10-11,10975
+1285,137,Keyboard,Accessories,West,4,15321.0,Cash,2025-10-12,61284
+1286,260,Mobile,Electronics,South,5,3762.0,Debit Card,2025-10-13,18810
+1287,109,Mobile,Accessories,West,4,1945.0,Cash,2025-10-14,7780
+1288,199,Laptop,Accessories,South,5,16936.0,Debit Card,2025-10-15,84680
+1289,247,Keyboard,Accessories,East,3,10449.0,Debit Card,2025-10-16,31347
+1290,148,Tablet,Computers,East,2,24463.0,Cash,2025-10-17,48926
+1291,231,Keyboard,Electronics,North,4,30432.0,Debit Card,2025-10-18,121728
+1292,248,Tablet,Electronics,North,1,7401.0,Debit Card,2025-10-19,7401
+1293,252,Headphones,Accessories,West,2,33987.0,Debit Card,2025-10-20,67974
+1294,154,Keyboard,Accessories,East,1,9097.0,Credit Card,2025-10-21,9097
+1295,220,Headphones,Electronics,South,2,7355.0,Debit Card,2025-10-22,14710
+1296,261,Mobile,Accessories,South,2,19178.0,Credit Card,2025-10-23,38356
+1297,252,Mobile,Electronics,South,5,8763.0,Credit Card,2025-10-24,43815
+1298,216,Laptop,Computers,North,4,47788.0,Debit Card,2025-10-25,191152
+1299,175,Keyboard,Accessories,South,4,26305.0,Debit Card,2025-10-26,105220
+1300,213,Headphones,Electronics,North,2,26643.0,Credit Card,2025-10-27,53286
+1301,264,Tablet,Accessories,North,3,12374.0,Credit Card,2025-10-28,37122
+1302,266,Mobile,Electronics,West,3,28029.0,Debit Card,2025-10-29,84087
+1303,204,Mobile,Electronics,South,1,21366.0,Debit Card,2025-10-30,21366
+1304,184,Tablet,Accessories,South,1,14579.0,Cash,2025-10-31,14579
+1305,212,Headphones,Computers,East,5,7743.0,Credit Card,2025-11-01,38715
+1306,199,Headphones,Electronics,West,2,30372.0,Credit Card,2025-11-02,60744
+1307,253,Keyboard,Electronics,East,1,9518.0,Cash,2025-11-03,9518
+1308,193,Keyboard,Electronics,West,1,12600.0,Credit Card,2025-11-04,12600
+1309,246,Laptop,Computers,South,2,49959.0,UPI,2025-11-05,99918
+1310,228,Mobile,Computers,North,5,20300.0,Credit Card,2025-11-06,101500
+1311,210,Keyboard,Accessories,North,1,27410.0,Cash,2025-11-07,27410
+1312,182,Headphones,Computers,North,5,29937.0,UPI,2025-11-08,149685
+1313,294,Tablet,Accessories,North,4,38088.0,Debit Card,2025-11-09,152352
+1314,154,Headphones,Accessories,North,5,11501.0,Cash,2025-11-10,57505
+1315,263,Mobile,Computers,East,3,47175.0,Cash,2025-11-11,141525
+1316,289,Headphones,Accessories,West,3,20442.0,Debit Card,2025-11-12,61326
+1317,269,Laptop,Computers,South,5,21362.0,Cash,2025-11-13,106810
+1318,261,Mobile,Accessories,East,3,12169.0,Credit Card,2025-11-14,36507
+1319,168,Tablet,Computers,West,4,16416.0,Debit Card,2025-11-15,65664
+1320,133,Laptop,Computers,North,2,11378.0,Cash,2025-11-16,22756
+1321,242,Mobile,Accessories,West,3,3485.0,Debit Card,2025-11-17,10455
+1322,121,Tablet,Electronics,West,3,32869.0,Debit Card,2025-11-18,98607
+1323,148,Laptop,Accessories,North,5,8612.0,Debit Card,2025-11-19,43060
+1324,248,Laptop,Computers,North,4,41735.0,UPI,2025-11-20,166940
+1325,228,Mobile,Electronics,North,2,19431.0,Cash,2025-11-21,38862
+1326,236,Keyboard,Accessories,South,5,27840.0,UPI,2025-11-22,139200
+1327,235,Laptop,Accessories,North,5,836.0,Cash,2025-11-23,4180
+1328,295,Laptop,Accessories,South,4,43433.0,Credit Card,2025-11-24,173732
+1329,245,Tablet,Electronics,North,2,19863.0,Credit Card,2025-11-25,39726
+1330,228,Headphones,Computers,South,4,46036.0,Credit Card,2025-11-26,184144
+1331,133,Mobile,Accessories,West,2,4468.0,Cash,2025-11-27,8936
+1332,276,Mobile,Accessories,East,4,34178.0,Debit Card,2025-11-28,136712
+1333,287,Keyboard,Accessories,West,5,48900.0,Debit Card,2025-11-29,244500
+1334,215,Keyboard,Accessories,West,5,16779.0,UPI,2025-11-30,83895
+1335,219,Mobile,Accessories,North,1,3629.0,UPI,2025-12-01,3629
+1336,122,Keyboard,Computers,South,3,38715.0,Credit Card,2025-12-02,116145
+1337,258,Tablet,Computers,East,4,39397.0,UPI,2025-12-03,157588
+1338,138,Mobile,Accessories,North,1,6350.0,Cash,2025-12-04,6350
+1339,209,Keyboard,Electronics,North,3,21088.0,Cash,2025-12-05,63264
+1340,151,Mobile,Computers,North,4,40714.0,UPI,2025-12-06,162856
+1341,282,Headphones,Electronics,West,2,12449.0,UPI,2025-12-07,24898
+1342,108,Laptop,Computers,South,3,9019.0,UPI,2025-12-08,27057
+1343,127,Mobile,Accessories,South,5,26875.0,UPI,2025-12-09,134375
+1344,127,Laptop,Computers,East,1,33582.0,Credit Card,2025-12-10,33582
+1345,121,Keyboard,Accessories,South,3,12237.0,Credit Card,2025-12-11,36711
+1346,130,Laptop,Computers,South,3,1634.0,UPI,2025-12-12,4902
+1347,197,Mobile,Accessories,North,5,11438.0,Cash,2025-12-13,57190
+1348,128,Headphones,Accessories,North,4,24986.0,Credit Card,2025-12-14,99944
+1349,211,Keyboard,Accessories,West,2,48856.0,Cash,2025-12-15,97712
+1350,292,Mobile,Accessories,North,5,26596.0,Debit Card,2025-12-16,132980
+1351,297,Keyboard,Electronics,North,2,41615.0,Cash,2025-12-17,83230
+1352,161,Tablet,Accessories,North,4,6092.0,UPI,2025-12-18,24368
+1353,148,Laptop,Electronics,North,3,18608.0,Debit Card,2025-12-19,55824
+1354,247,Tablet,Electronics,West,2,17770.0,Credit Card,2025-12-20,35540
+1355,104,Mobile,Accessories,North,1,28149.0,Credit Card,2025-12-21,28149
+1356,135,Headphones,Electronics,East,1,11497.0,Debit Card,2025-12-22,11497
+1357,292,Keyboard,Computers,East,5,33989.0,Cash,2025-12-23,169945
+1358,149,Laptop,Accessories,East,4,9604.0,Credit Card,2025-12-24,38416
+1359,117,Keyboard,Electronics,East,5,1370.0,UPI,2025-12-25,6850
+1360,272,Mobile,Accessories,North,5,29184.0,Debit Card,2025-12-26,145920
+1361,258,Keyboard,Accessories,East,5,40019.0,UPI,2025-12-27,200095
+1362,146,Laptop,Accessories,North,1,35024.0,Debit Card,2025-12-28,35024
+1363,217,Mobile,Electronics,West,1,31457.0,Credit Card,2025-12-29,31457
+1364,106,Keyboard,Computers,East,5,34385.0,Cash,2025-12-30,171925
+1365,199,Headphones,Computers,South,1,44869.0,Debit Card,2025-12-31,44869
+1366,224,Mobile,Electronics,East,4,36096.0,Debit Card,2026-01-01,144384
+1367,137,Mobile,Accessories,East,5,30366.0,UPI,2026-01-02,151830
+1368,124,Headphones,Electronics,North,1,31176.0,Credit Card,2026-01-03,31176
+1369,193,Tablet,Electronics,East,2,48264.0,UPI,2026-01-04,96528
+1370,146,Laptop,Electronics,South,5,14378.0,Credit Card,2026-01-05,71890
+1371,281,Tablet,Accessories,North,5,40260.0,UPI,2026-01-06,201300
+1372,195,Keyboard,Electronics,North,4,28059.0,Debit Card,2026-01-07,112236
+1373,199,Headphones,Accessories,West,3,47046.0,UPI,2026-01-08,141138
+1374,288,Tablet,Electronics,West,3,7271.0,Cash,2026-01-09,21813
+1375,216,Mobile,Computers,East,4,17026.0,Credit Card,2026-01-10,68104
+1376,291,Keyboard,Electronics,West,4,30396.0,Credit Card,2026-01-11,121584
+1377,260,Keyboard,Electronics,West,4,32423.0,Debit Card,2026-01-12,129692
+1378,261,Tablet,Computers,West,3,36703.0,Credit Card,2026-01-13,110109
+1379,167,Tablet,Accessories,North,4,39890.0,Cash,2026-01-14,159560
+1380,228,Headphones,Accessories,North,1,13352.0,UPI,2026-01-15,13352
+1381,118,Laptop,Electronics,North,5,48074.0,Debit Card,2026-01-16,240370
+1382,125,Tablet,Computers,West,5,43891.0,Cash,2026-01-17,219455
+1383,154,Tablet,Accessories,North,2,2348.0,Credit Card,2026-01-18,4696
+1384,158,Mobile,Electronics,West,2,31527.0,Credit Card,2026-01-19,63054
+1385,167,Keyboard,Computers,North,5,35964.0,Cash,2026-01-20,179820
+1386,204,Laptop,Accessories,North,1,34985.0,UPI,2026-01-21,34985
+1387,274,Mobile,Accessories,South,3,19956.0,UPI,2026-01-22,59868
+1388,124,Headphones,Computers,East,3,9759.0,Debit Card,2026-01-23,29277
+1389,214,Headphones,Computers,West,1,36054.0,Credit Card,2026-01-24,36054
+1390,132,Tablet,Computers,South,3,47422.0,Cash,2026-01-25,142266
+1391,275,Tablet,Computers,North,4,13909.0,UPI,2026-01-26,55636
+1392,186,Headphones,Electronics,West,5,4291.0,Debit Card,2026-01-27,21455
+1393,251,Tablet,Computers,North,5,26364.0,Credit Card,2026-01-28,131820
+1394,294,Laptop,Accessories,East,1,37139.0,Credit Card,2026-01-29,37139
+1395,227,Tablet,Accessories,South,3,35074.0,Debit Card,2026-01-30,105222
+1396,255,Keyboard,Electronics,East,2,18388.0,Debit Card,2026-01-31,36776
+1397,230,Tablet,Accessories,South,2,20192.0,UPI,2026-02-01,40384
+1398,117,Mobile,Accessories,North,3,24001.0,Cash,2026-02-02,72003
+1399,204,Laptop,Computers,East,2,13804.0,Credit Card,2026-02-03,27608
+1400,261,Mobile,Accessories,East,1,28027.0,Cash,2026-02-04,28027
+1401,237,Mobile,Electronics,North,1,18574.0,Credit Card,2026-02-05,18574
+1402,143,Keyboard,Computers,East,3,16049.0,Credit Card,2026-02-06,48147
+1403,276,Laptop,Computers,West,2,30463.0,Cash,2026-02-07,60926
+1404,139,Laptop,Electronics,South,1,26420.0,Debit Card,2026-02-08,26420
+1405,270,Laptop,Computers,South,1,31326.0,UPI,2026-02-09,31326
+1406,126,Laptop,Computers,South,4,36571.0,Credit Card,2026-02-10,146284
+1407,199,Laptop,Electronics,West,4,16561.0,Debit Card,2026-02-11,66244
+1408,150,Keyboard,Computers,South,1,29310.0,Credit Card,2026-02-12,29310
+1409,253,Tablet,Electronics,North,3,48466.0,UPI,2026-02-13,145398
+1410,252,Mobile,Electronics,East,5,23300.0,Credit Card,2026-02-14,116500
+1411,113,Laptop,Accessories,West,5,43923.0,UPI,2026-02-15,219615
+1412,160,Tablet,Accessories,South,1,42192.0,UPI,2026-02-16,42192
+1413,235,Tablet,Computers,North,1,10440.0,Credit Card,2026-02-17,10440
+1414,157,Mobile,Computers,East,1,4424.0,Credit Card,2026-02-18,4424
+1415,136,Keyboard,Electronics,East,3,28554.0,UPI,2026-02-19,85662
+1416,273,Headphones,Computers,West,4,10283.0,Debit Card,2026-02-20,41132
+1417,120,Headphones,Electronics,West,1,37753.0,Cash,2026-02-21,37753
+1418,165,Tablet,Electronics,West,1,45897.0,UPI,2026-02-22,45897
+1419,108,Mobile,Computers,North,2,13733.0,Credit Card,2026-02-23,27466
+1420,244,Headphones,Electronics,North,3,46169.0,Credit Card,2026-02-24,138507
+1421,242,Tablet,Accessories,West,1,24984.0,Debit Card,2026-02-25,24984
+1422,215,Keyboard,Computers,South,2,25568.0,Cash,2026-02-26,51136
+1423,243,Headphones,Accessories,East,5,691.0,UPI,2026-02-27,3455
+1424,192,Tablet,Computers,East,1,25574.0,UPI,2026-02-28,25574
+1425,198,Tablet,Electronics,North,1,5417.0,Cash,2026-03-01,5417
+1426,166,Laptop,Computers,East,2,39099.0,UPI,2026-03-02,78198
+1427,132,Keyboard,Accessories,South,3,26332.0,Cash,2026-03-03,78996
+1428,291,Laptop,Electronics,East,1,43428.0,Credit Card,2026-03-04,43428
+1429,186,Mobile,Computers,North,5,21206.0,Cash,2026-03-05,106030
+1430,151,Laptop,Computers,North,1,14182.0,UPI,2026-03-06,14182
+1431,253,Laptop,Computers,South,5,27262.0,Cash,2026-03-07,136310
+1432,286,Headphones,Accessories,South,4,23883.0,Debit Card,2026-03-08,95532
+1433,163,Tablet,Accessories,East,4,28296.0,Credit Card,2026-03-09,113184
+1434,290,Keyboard,Computers,East,5,24166.0,Credit Card,2026-03-10,120830
+1435,225,Laptop,Electronics,North,3,26162.0,Cash,2026-03-11,78486
+1436,250,Keyboard,Electronics,South,1,45659.0,UPI,2026-03-12,45659
+1437,158,Laptop,Accessories,South,1,35142.0,Debit Card,2026-03-13,35142
+1438,158,Mobile,Electronics,South,4,42330.0,Credit Card,2026-03-14,169320
+1439,186,Laptop,Accessories,East,5,38031.0,Credit Card,2026-03-15,190155
+1440,149,Headphones,Computers,South,1,10734.0,UPI,2026-03-16,10734
+1441,280,Tablet,Accessories,North,1,9721.0,UPI,2026-03-17,9721
+1442,270,Mobile,Accessories,North,3,11910.0,Debit Card,2026-03-18,35730
+1443,170,Laptop,Computers,East,2,15019.0,Cash,2026-03-19,30038
+1444,115,Keyboard,Electronics,West,4,1551.0,UPI,2026-03-20,6204
+1445,154,Mobile,Accessories,East,4,45493.0,Cash,2026-03-21,181972
+1446,288,Mobile,Accessories,West,2,10265.0,Debit Card,2026-03-22,20530
+1447,201,Laptop,Computers,South,1,11882.0,Cash,2026-03-23,11882
+1448,108,Mobile,Electronics,East,3,13080.0,Credit Card,2026-03-24,39240
+1449,153,Keyboard,Accessories,North,3,32823.0,Cash,2026-03-25,98469
+1450,160,Mobile,Computers,South,4,45257.0,Debit Card,2026-03-26,181028
+1451,208,Keyboard,Accessories,North,3,12439.0,Debit Card,2026-03-27,37317
+1452,105,Laptop,Computers,South,2,30464.0,Debit Card,2026-03-28,60928
+1453,203,Tablet,Electronics,East,1,807.0,Cash,2026-03-29,807
+1454,296,Mobile,Electronics,West,2,3859.0,Credit Card,2026-03-30,7718
+1455,106,Tablet,Electronics,South,5,30148.0,UPI,2026-03-31,150740
+1456,209,Keyboard,Electronics,West,4,36444.0,Credit Card,2026-04-01,145776
+1457,216,Mobile,Accessories,South,3,34519.0,Cash,2026-04-02,103557
+1458,194,Headphones,Accessories,North,5,38634.0,Cash,2026-04-03,193170
+1459,147,Tablet,Electronics,North,3,27823.0,UPI,2026-04-04,83469
+1460,199,Mobile,Electronics,South,1,6726.0,Cash,2026-04-05,6726
+1461,155,Tablet,Electronics,West,1,22189.0,Debit Card,2026-04-06,22189
+1462,268,Mobile,Accessories,East,1,31471.0,Debit Card,2026-04-07,31471
+1463,152,Laptop,Electronics,East,3,26454.0,Debit Card,2026-04-08,79362
+1464,244,Tablet,Electronics,North,5,24923.0,Debit Card,2026-04-09,124615
+1465,113,Headphones,Electronics,East,1,30891.0,Debit Card,2026-04-10,30891
+1466,214,Headphones,Computers,North,5,14830.0,Cash,2026-04-11,74150
+1467,224,Keyboard,Electronics,East,3,5391.0,UPI,2026-04-12,16173
+1468,206,Mobile,Computers,South,5,5492.0,UPI,2026-04-13,27460
+1469,258,Tablet,Computers,North,3,2461.0,Debit Card,2026-04-14,7383
+1470,247,Keyboard,Electronics,North,3,12997.0,Cash,2026-04-15,38991
+1471,245,Tablet,Computers,South,4,33051.0,Credit Card,2026-04-16,132204
+1472,220,Mobile,Electronics,North,3,11348.0,Credit Card,2026-04-17,34044
+1473,163,Headphones,Accessories,East,3,13755.0,Cash,2026-04-18,41265
+1474,119,Laptop,Accessories,East,2,5067.0,Debit Card,2026-04-19,10134
+1475,192,Headphones,Accessories,North,1,49347.0,UPI,2026-04-20,49347
+1476,158,Keyboard,Accessories,East,4,39781.0,Cash,2026-04-21,159124
+1477,283,Laptop,Computers,West,4,48503.0,Credit Card,2026-04-22,194012
+1478,190,Keyboard,Electronics,North,4,20889.0,Credit Card,2026-04-23,83556
+1479,217,Mobile,Electronics,South,2,45023.0,Credit Card,2026-04-24,90046
+1480,162,Laptop,Electronics,West,3,44419.0,Debit Card,2026-04-25,133257
+1481,123,Keyboard,Accessories,North,1,17067.0,Credit Card,2026-04-26,17067
+1482,227,Mobile,Accessories,South,5,3858.0,Cash,2026-04-27,19290
+1483,237,Headphones,Electronics,East,3,23499.0,Cash,2026-04-28,70497
+1484,240,Mobile,Accessories,South,2,42858.0,Credit Card,2026-04-29,85716
+1485,229,Tablet,Electronics,West,3,11488.0,Cash,2026-04-30,34464
+1486,158,Mobile,Electronics,East,3,40946.0,Credit Card,2026-05-01,122838
+1487,222,Mobile,Electronics,North,2,32021.0,Credit Card,2026-05-02,64042
+1488,101,Tablet,Electronics,East,4,6198.0,UPI,2026-05-03,24792
+1489,134,Keyboard,Electronics,North,4,1773.0,Debit Card,2026-05-04,7092
+1490,196,Keyboard,Electronics,North,1,28043.0,Debit Card,2026-05-05,28043
+1491,226,Mobile,Electronics,South,1,31849.0,UPI,2026-05-06,31849
+1492,218,Tablet,Accessories,South,4,11741.0,UPI,2026-05-07,46964
+1493,148,Tablet,Electronics,South,5,9997.0,Debit Card,2026-05-08,49985
+1494,189,Headphones,Electronics,West,3,42375.0,Credit Card,2026-05-09,127125
+1495,217,Keyboard,Accessories,West,5,33203.0,Credit Card,2026-05-10,166015
+1496,229,Laptop,Accessories,South,3,44541.0,Debit Card,2026-05-11,133623
+1497,116,Keyboard,Accessories,West,4,32454.0,Credit Card,2026-05-12,129816
+1498,289,Keyboard,Electronics,East,1,8502.0,UPI,2026-05-13,8502
+1499,292,Headphones,Computers,East,1,4747.0,Credit Card,2026-05-14,4747
+1500,291,Laptop,Computers,West,5,42488.0,Credit Card,2026-05-15,212440
+1501,169,Headphones,Accessories,West,1,22198.0,Cash,2026-05-16,22198
+1502,122,Laptop,Computers,East,4,20238.0,Cash,2026-05-17,80952
+1503,193,Mobile,Accessories,North,5,11203.0,Cash,2026-05-18,56015
+1504,295,Laptop,Electronics,East,3,48740.0,Credit Card,2026-05-19,146220
+1505,176,Headphones,Computers,East,1,49922.0,Debit Card,2026-05-20,49922
+1506,254,Keyboard,Electronics,West,2,18070.0,UPI,2026-05-21,36140
+1507,244,Laptop,Computers,East,1,12892.0,Credit Card,2026-05-22,12892
+1508,279,Laptop,Electronics,West,3,45224.0,Debit Card,2026-05-23,135672
+1509,186,Tablet,Computers,West,5,32799.0,Credit Card,2026-05-24,163995
+1510,285,Keyboard,Electronics,South,3,16141.0,UPI,2026-05-25,48423
+1511,129,Mobile,Electronics,East,2,14498.0,Credit Card,2026-05-26,28996
+1512,169,Headphones,Computers,North,4,6805.0,UPI,2026-05-27,27220
+1513,147,Mobile,Electronics,South,1,33226.0,Credit Card,2026-05-28,33226
+1514,194,Keyboard,Electronics,West,5,19282.0,UPI,2026-05-29,96410
+1515,290,Laptop,Electronics,West,4,13221.0,Credit Card,2026-05-30,52884
+1516,297,Laptop,Computers,North,3,40263.0,UPI,2026-05-31,120789
+1517,244,Keyboard,Computers,West,5,12927.0,Cash,2026-06-01,64635
+1518,276,Laptop,Electronics,East,4,47050.0,Credit Card,2026-06-02,188200
+1519,185,Laptop,Electronics,South,5,21066.0,Credit Card,2026-06-03,105330
+1520,139,Laptop,Computers,West,2,2730.0,Debit Card,2026-06-04,5460
+1521,200,Headphones,Computers,West,2,7011.0,Debit Card,2026-06-05,14022
+1522,133,Headphones,Electronics,North,1,49780.0,UPI,2026-06-06,49780
+1523,201,Tablet,Electronics,East,1,42729.0,Credit Card,2026-06-07,42729
+1524,123,Mobile,Electronics,West,2,26677.0,UPI,2026-06-08,53354
+1525,110,Keyboard,Accessories,North,5,5265.0,Cash,2026-06-09,26325
+1526,169,Keyboard,Computers,West,2,20854.0,Debit Card,2026-06-10,41708
+1527,200,Keyboard,Accessories,North,1,24429.0,UPI,2026-06-11,24429
+1528,134,Tablet,Computers,North,2,29320.0,UPI,2026-06-12,58640
+1529,280,Headphones,Computers,East,2,46540.0,Debit Card,2026-06-13,93080
+1530,238,Tablet,Computers,West,5,30023.0,Credit Card,2026-06-14,150115
+1531,247,Keyboard,Computers,East,4,6052.0,UPI,2026-06-15,24208
+1532,286,Mobile,Computers,North,1,1127.0,Debit Card,2026-06-16,1127
+1533,196,Laptop,Computers,South,5,12489.0,Credit Card,2026-06-17,62445
+1534,101,Headphones,Computers,West,2,14280.0,Cash,2026-06-18,28560
+1535,169,Headphones,Accessories,South,2,7089.0,Debit Card,2026-06-19,14178
+1536,104,Tablet,Electronics,West,4,35312.0,UPI,2026-06-20,141248
+1537,116,Headphones,Electronics,East,1,28628.0,Cash,2026-06-21,28628
+1538,124,Keyboard,Accessories,East,1,46439.0,Credit Card,2026-06-22,46439
+1539,180,Keyboard,Accessories,East,3,39152.0,Credit Card,2026-06-23,117456
+1540,102,Tablet,Accessories,East,1,28290.0,Debit Card,2026-06-24,28290
+1541,228,Keyboard,Accessories,East,4,41453.0,Debit Card,2026-06-25,165812
+1542,260,Mobile,Computers,South,3,749.0,Debit Card,2026-06-26,2247
+1543,184,Tablet,Electronics,East,3,19809.0,Credit Card,2026-06-27,59427
+1544,252,Mobile,Computers,North,2,26401.0,Cash,2026-06-28,52802
+1545,240,Laptop,Electronics,North,2,24076.0,Credit Card,2026-06-29,48152
+1546,278,Mobile,Electronics,South,1,32008.0,UPI,2026-06-30,32008
+1547,263,Laptop,Accessories,West,3,9675.0,Credit Card,2026-07-01,29025
+1548,224,Laptop,Computers,North,2,25964.0,UPI,2026-07-02,51928
+1549,133,Mobile,Accessories,West,4,16760.0,Cash,2026-07-03,67040
+1550,261,Tablet,Computers,South,2,35940.0,Debit Card,2026-07-04,71880
+1551,289,Keyboard,Electronics,West,2,30046.0,Debit Card,2026-07-05,60092
+1552,279,Keyboard,Accessories,West,3,40547.0,Credit Card,2026-07-06,121641
+1553,271,Laptop,Accessories,West,3,41930.0,Debit Card,2026-07-07,125790
+1554,201,Laptop,Electronics,West,5,2487.0,Cash,2026-07-08,12435
+1555,112,Tablet,Electronics,South,4,49742.0,Debit Card,2026-07-09,198968
+1556,167,Headphones,Electronics,North,3,25605.0,Credit Card,2026-07-10,76815
+1557,165,Mobile,Accessories,East,1,13448.0,Cash,2026-07-11,13448
+1558,261,Laptop,Computers,West,4,13526.0,UPI,2026-07-12,54104
+1559,268,Keyboard,Accessories,North,4,3273.0,Credit Card,2026-07-13,13092
+1560,174,Tablet,Computers,North,3,46427.0,UPI,2026-07-14,139281
+1561,143,Mobile,Accessories,South,4,10378.0,Cash,2026-07-15,41512
+1562,144,Tablet,Accessories,North,3,43446.0,Credit Card,2026-07-16,130338
+1563,129,Mobile,Electronics,South,2,10877.0,Credit Card,2026-07-17,21754
+1564,241,Mobile,Computers,West,5,7847.0,Cash,2026-07-18,39235
+1565,112,Laptop,Accessories,West,2,34276.0,Debit Card,2026-07-19,68552
+1566,195,Tablet,Accessories,East,3,4283.0,Credit Card,2026-07-20,12849
+1567,146,Tablet,Electronics,East,3,4798.0,Credit Card,2026-07-21,14394
+1568,230,Keyboard,Electronics,East,2,5168.0,UPI,2026-07-22,10336
+1569,135,Keyboard,Computers,North,1,21171.0,Debit Card,2026-07-23,21171
+1570,181,Laptop,Accessories,West,1,35320.0,UPI,2026-07-24,35320
+1571,190,Laptop,Computers,South,1,34984.0,UPI,2026-07-25,34984
+1572,108,Headphones,Accessories,East,3,33578.0,Debit Card,2026-07-26,100734
+1573,193,Keyboard,Computers,South,4,47659.0,Debit Card,2026-07-27,190636
+1574,254,Mobile,Electronics,South,3,21422.0,Cash,2026-07-28,64266
+1575,190,Tablet,Accessories,East,4,34528.0,Debit Card,2026-07-29,138112
+1576,262,Laptop,Computers,West,2,46425.0,Credit Card,2026-07-30,92850
+1577,215,Tablet,Electronics,East,5,20816.0,Debit Card,2026-07-31,104080
+1578,205,Tablet,Electronics,South,4,11960.0,Cash,2026-08-01,47840
+1579,235,Headphones,Computers,East,1,17468.0,Cash,2026-08-02,17468
+1580,296,Keyboard,Accessories,South,3,30766.0,Cash,2026-08-03,92298
+1581,158,Laptop,Accessories,South,2,30709.0,Debit Card,2026-08-04,61418
+1582,214,Tablet,Electronics,East,1,24500.0,Debit Card,2026-08-05,24500
+1583,175,Laptop,Accessories,North,2,14511.0,UPI,2026-08-06,29022
+1584,257,Mobile,Accessories,East,5,3366.0,UPI,2026-08-07,16830
+1585,220,Headphones,Accessories,North,3,47633.0,Credit Card,2026-08-08,142899
+1586,264,Mobile,Electronics,South,3,6398.0,UPI,2026-08-09,19194
+1587,121,Laptop,Computers,South,5,18895.0,Credit Card,2026-08-10,94475
+1588,264,Laptop,Accessories,North,3,39519.0,Cash,2026-08-11,118557
+1589,238,Keyboard,Electronics,South,4,38207.0,UPI,2026-08-12,152828
+1590,201,Tablet,Electronics,North,2,4506.0,Debit Card,2026-08-13,9012
+1591,252,Tablet,Computers,North,1,34893.0,UPI,2026-08-14,34893
+1592,292,Mobile,Accessories,South,5,11456.0,Credit Card,2026-08-15,57280
+1593,277,Headphones,Accessories,West,4,31163.0,UPI,2026-08-16,124652
+1594,199,Tablet,Computers,North,1,6578.0,Cash,2026-08-17,6578
+1595,136,Keyboard,Computers,East,1,30131.0,Debit Card,2026-08-18,30131
+1596,196,Mobile,Electronics,East,5,30640.0,Credit Card,2026-08-19,153200
+1597,252,Mobile,Electronics,South,4,42191.0,Debit Card,2026-08-20,168764
+1598,251,Keyboard,Computers,West,1,4461.0,Debit Card,2026-08-21,4461
+1599,290,Headphones,Accessories,South,1,29777.0,Credit Card,2026-08-22,29777
+1600,137,Keyboard,Electronics,West,4,42074.0,Debit Card,2026-08-23,168296
+1601,112,Headphones,Electronics,North,3,31917.0,Debit Card,2026-08-24,95751
+1602,213,Keyboard,Accessories,North,1,22984.0,UPI,2026-08-25,22984
+1603,283,Keyboard,Electronics,North,2,18603.0,Debit Card,2026-08-26,37206
+1604,113,Laptop,Accessories,North,4,29845.0,Debit Card,2026-08-27,119380
+1605,123,Mobile,Accessories,East,1,46826.0,Debit Card,2026-08-28,46826
+1606,199,Keyboard,Accessories,East,5,39954.0,Debit Card,2026-08-29,199770
+1607,205,Keyboard,Computers,South,2,2087.0,Credit Card,2026-08-30,4174
+1608,130,Tablet,Computers,West,1,43071.0,Cash,2026-08-31,43071
+1609,117,Mobile,Computers,North,2,21531.0,UPI,2026-09-01,43062
+1610,213,Tablet,Accessories,North,2,26712.0,Debit Card,2026-09-02,53424
+1611,162,Mobile,Accessories,West,3,10850.0,Debit Card,2026-09-03,32550
+1612,184,Tablet,Computers,West,2,19316.0,Credit Card,2026-09-04,38632
+1613,212,Keyboard,Electronics,South,3,20788.0,Cash,2026-09-05,62364
+1614,186,Keyboard,Accessories,West,4,29932.0,Debit Card,2026-09-06,119728
+1615,241,Laptop,Electronics,North,3,44722.0,Credit Card,2026-09-07,134166
+1616,287,Tablet,Electronics,North,5,49117.0,UPI,2026-09-08,245585
+1617,119,Headphones,Accessories,North,1,7337.0,UPI,2026-09-09,7337
+1618,277,Laptop,Accessories,North,4,34717.0,Debit Card,2026-09-10,138868
+1619,200,Tablet,Electronics,North,4,21384.0,Debit Card,2026-09-11,85536
+1620,240,Tablet,Electronics,South,5,5954.0,Cash,2026-09-12,29770
+1621,289,Laptop,Computers,North,3,9924.0,Cash,2026-09-13,29772
+1622,247,Keyboard,Computers,South,1,37385.0,Debit Card,2026-09-14,37385
+1623,176,Tablet,Accessories,North,3,42137.0,Credit Card,2026-09-15,126411
+1624,109,Keyboard,Computers,East,2,44118.0,Cash,2026-09-16,88236
+1625,299,Laptop,Computers,East,3,18912.0,Debit Card,2026-09-17,56736
+1626,128,Keyboard,Computers,East,4,47611.0,Cash,2026-09-18,190444
+1627,228,Mobile,Computers,East,1,40113.0,Debit Card,2026-09-19,40113
+1628,152,Headphones,Electronics,South,3,20642.0,UPI,2026-09-20,61926
+1629,183,Tablet,Accessories,South,1,37892.0,Debit Card,2026-09-21,37892
+1630,211,Headphones,Computers,West,1,9348.0,UPI,2026-09-22,9348
+1631,244,Keyboard,Electronics,North,2,49817.0,Cash,2026-09-23,99634
+1632,217,Tablet,Electronics,East,2,13636.0,Debit Card,2026-09-24,27272
+1633,169,Keyboard,Electronics,South,4,1089.0,Cash,2026-09-25,4356
+1634,199,Mobile,Computers,North,5,21408.0,UPI,2026-09-26,107040
+1635,240,Laptop,Computers,North,1,7009.0,Debit Card,2026-09-27,7009
+1636,125,Tablet,Accessories,South,5,40961.0,Cash,2026-09-28,204805
+1637,280,Mobile,Computers,East,4,42722.0,UPI,2026-09-29,170888
+1638,223,Mobile,Computers,West,1,49723.0,Cash,2026-09-30,49723
+1639,153,Tablet,Electronics,North,1,44976.0,Credit Card,2026-10-01,44976
+1640,251,Keyboard,Accessories,West,5,46210.0,UPI,2026-10-02,231050
+1641,244,Mobile,Computers,East,3,49920.0,UPI,2026-10-03,149760
+1642,157,Headphones,Computers,East,2,10468.0,UPI,2026-10-04,20936
+1643,139,Mobile,Electronics,West,3,2962.0,Debit Card,2026-10-05,8886
+1644,209,Keyboard,Electronics,East,5,9960.0,Debit Card,2026-10-06,49800
+1645,281,Keyboard,Computers,North,2,34283.0,Debit Card,2026-10-07,68566
+1646,142,Headphones,Accessories,West,3,9775.0,Credit Card,2026-10-08,29325
+1647,286,Mobile,Accessories,East,2,29177.0,Credit Card,2026-10-09,58354
+1648,267,Keyboard,Electronics,West,1,13769.0,UPI,2026-10-10,13769
+1649,242,Tablet,Electronics,North,3,906.0,Credit Card,2026-10-11,2718
+1650,222,Laptop,Computers,East,2,7884.0,Cash,2026-10-12,15768
+1651,233,Laptop,Electronics,North,2,23053.0,UPI,2026-10-13,46106
+1652,263,Laptop,Computers,East,2,24866.0,UPI,2026-10-14,49732
+1653,175,Mobile,Accessories,South,3,44536.0,Cash,2026-10-15,133608
+1654,246,Headphones,Accessories,East,4,17869.0,UPI,2026-10-16,71476
+1655,176,Keyboard,Computers,West,3,12295.0,Credit Card,2026-10-17,36885
+1656,109,Tablet,Electronics,East,5,4985.0,Debit Card,2026-10-18,24925
+1657,174,Tablet,Accessories,North,3,42169.0,Cash,2026-10-19,126507
+1658,286,Mobile,Electronics,North,2,3118.0,Credit Card,2026-10-20,6236
+1659,245,Laptop,Accessories,East,1,30643.0,Cash,2026-10-21,30643
+1660,107,Mobile,Computers,West,3,29925.0,Cash,2026-10-22,89775
+1661,274,Headphones,Computers,South,3,23173.0,UPI,2026-10-23,69519
+1662,241,Headphones,Computers,West,2,10103.0,UPI,2026-10-24,20206
+1663,268,Keyboard,Accessories,South,1,40196.0,Credit Card,2026-10-25,40196
+1664,270,Keyboard,Electronics,North,1,5868.0,Cash,2026-10-26,5868
+1665,237,Headphones,Electronics,West,5,5121.0,UPI,2026-10-27,25605
+1666,278,Headphones,Electronics,South,3,15219.0,UPI,2026-10-28,45657
+1667,127,Headphones,Accessories,East,1,29727.0,Cash,2026-10-29,29727
+1668,222,Mobile,Accessories,North,1,44394.0,Credit Card,2026-10-30,44394
+1669,294,Headphones,Accessories,East,4,8066.0,Credit Card,2026-10-31,32264
+1670,105,Tablet,Accessories,North,4,12806.0,Cash,2026-11-01,51224
+1671,129,Laptop,Accessories,West,1,24542.0,Credit Card,2026-11-02,24542
+1672,265,Headphones,Electronics,West,5,15586.0,UPI,2026-11-03,77930
+1673,266,Laptop,Accessories,North,1,17887.0,Cash,2026-11-04,17887
+1674,183,Mobile,Accessories,North,2,27542.0,UPI,2026-11-05,55084
+1675,236,Laptop,Electronics,North,3,24388.0,Debit Card,2026-11-06,73164
+1676,209,Mobile,Accessories,West,5,27014.0,Debit Card,2026-11-07,135070
+1677,165,Tablet,Electronics,South,2,18823.0,Credit Card,2026-11-08,37646
+1678,186,Mobile,Electronics,East,5,18519.0,Debit Card,2026-11-09,92595
+1679,245,Mobile,Computers,East,2,10390.0,UPI,2026-11-10,20780
+1680,171,Keyboard,Computers,West,3,41363.0,Debit Card,2026-11-11,124089
+1681,145,Headphones,Computers,East,3,45987.0,UPI,2026-11-12,137961
+1682,232,Headphones,Computers,North,4,10783.0,Credit Card,2026-11-13,43132
+1683,136,Tablet,Accessories,South,2,18779.0,Credit Card,2026-11-14,37558
+1684,170,Tablet,Computers,East,4,47499.0,UPI,2026-11-15,189996
+1685,259,Headphones,Electronics,South,2,23408.0,Debit Card,2026-11-16,46816
+1686,119,Keyboard,Accessories,North,4,47966.0,Credit Card,2026-11-17,191864
+1687,289,Headphones,Computers,East,3,38452.0,Cash,2026-11-18,115356
+1688,208,Keyboard,Electronics,West,5,35670.0,Credit Card,2026-11-19,178350
+1689,282,Tablet,Accessories,South,4,38163.0,Debit Card,2026-11-20,152652
+1690,267,Laptop,Accessories,North,2,44672.0,Cash,2026-11-21,89344
+1691,191,Tablet,Computers,South,2,48429.0,Debit Card,2026-11-22,96858
+1692,190,Tablet,Accessories,East,3,9843.0,UPI,2026-11-23,29529
+1693,119,Mobile,Electronics,East,2,11137.0,Cash,2026-11-24,22274
+1694,139,Mobile,Accessories,West,1,35224.0,Debit Card,2026-11-25,35224
+1695,226,Mobile,Electronics,North,5,40291.0,Cash,2026-11-26,201455
+1696,295,Mobile,Accessories,North,4,29634.0,Debit Card,2026-11-27,118536
+1697,273,Keyboard,Computers,West,5,47330.0,Cash,2026-11-28,236650
+1698,241,Headphones,Electronics,West,3,47601.0,Debit Card,2026-11-29,142803
+1699,226,Laptop,Accessories,North,4,4407.0,UPI,2026-11-30,17628
+1700,158,Tablet,Accessories,South,4,34075.0,Cash,2026-12-01,136300
+1701,248,Keyboard,Accessories,South,1,47299.0,Cash,2026-12-02,47299
+1702,161,Laptop,Electronics,West,3,5327.0,Cash,2026-12-03,15981
+1703,227,Keyboard,Electronics,South,2,31107.0,Cash,2026-12-04,62214
+1704,205,Keyboard,Electronics,North,1,14199.0,UPI,2026-12-05,14199
+1705,267,Tablet,Computers,East,1,37792.0,Cash,2026-12-06,37792
+1706,101,Headphones,Computers,East,5,48461.0,Credit Card,2026-12-07,242305
+1707,231,Mobile,Electronics,South,5,26383.0,UPI,2026-12-08,131915
+1708,192,Headphones,Accessories,West,5,49491.0,Credit Card,2026-12-09,247455
+1709,290,Tablet,Computers,West,1,5813.0,Cash,2026-12-10,5813
+1710,291,Tablet,Electronics,West,2,14098.0,Debit Card,2026-12-11,28196
+1711,213,Tablet,Accessories,West,4,46326.0,Credit Card,2026-12-12,185304
+1712,253,Laptop,Computers,West,5,29307.0,Cash,2026-12-13,146535
+1713,156,Headphones,Accessories,South,2,5387.0,Credit Card,2026-12-14,10774
+1714,261,Headphones,Accessories,East,3,4354.0,Cash,2026-12-15,13062
+1715,266,Keyboard,Accessories,East,5,45726.0,Cash,2026-12-16,228630
+1716,217,Keyboard,Accessories,South,4,15036.0,Cash,2026-12-17,60144
+1717,234,Keyboard,Computers,West,3,4058.0,Debit Card,2026-12-18,12174
+1718,158,Tablet,Computers,South,3,10272.0,Credit Card,2026-12-19,30816
+1719,144,Headphones,Computers,East,4,36843.0,UPI,2026-12-20,147372
+1720,273,Tablet,Electronics,North,5,35686.0,UPI,2026-12-21,178430
+1721,260,Laptop,Computers,South,1,37466.0,UPI,2026-12-22,37466
+1722,273,Keyboard,Accessories,West,4,34269.0,UPI,2026-12-23,137076
+1723,161,Tablet,Computers,East,4,40387.0,Cash,2026-12-24,161548
+1724,147,Tablet,Accessories,East,4,19729.0,Credit Card,2026-12-25,78916
+1725,249,Laptop,Electronics,East,3,10173.0,Credit Card,2026-12-26,30519
+1726,180,Mobile,Accessories,East,2,28377.0,Debit Card,2026-12-27,56754
+1727,218,Headphones,Accessories,West,1,32101.0,Credit Card,2026-12-28,32101
+1728,264,Mobile,Accessories,North,5,38584.0,Credit Card,2026-12-29,192920
+1729,247,Keyboard,Electronics,East,5,16744.0,Credit Card,2026-12-30,83720
+1730,120,Tablet,Computers,South,2,27856.0,Debit Card,2026-12-31,55712
+1731,285,Laptop,Computers,North,4,17306.0,UPI,2027-01-01,69224
+1732,246,Laptop,Electronics,East,1,23599.0,Credit Card,2027-01-02,23599
+1733,147,Headphones,Accessories,North,5,45141.0,Debit Card,2027-01-03,225705
+1734,149,Mobile,Computers,South,5,37534.0,Debit Card,2027-01-04,187670
+1735,114,Headphones,Electronics,East,4,40817.0,Cash,2027-01-05,163268
+1736,243,Tablet,Computers,South,2,19594.0,Debit Card,2027-01-06,39188
+1737,259,Headphones,Electronics,West,1,11089.0,UPI,2027-01-07,11089
+1738,101,Laptop,Accessories,East,2,2157.0,Credit Card,2027-01-08,4314
+1739,217,Laptop,Computers,East,2,33264.0,Debit Card,2027-01-09,66528
+1740,154,Keyboard,Electronics,East,1,40031.0,UPI,2027-01-10,40031
+1741,218,Keyboard,Computers,East,1,3664.0,Debit Card,2027-01-11,3664
+1742,103,Tablet,Computers,West,5,28042.0,Debit Card,2027-01-12,140210
+1743,244,Mobile,Computers,East,5,18937.0,Debit Card,2027-01-13,94685
+1744,285,Headphones,Computers,North,1,41747.0,Debit Card,2027-01-14,41747
+1745,112,Tablet,Electronics,East,3,39005.0,Debit Card,2027-01-15,117015
+1746,174,Keyboard,Accessories,West,5,20101.0,UPI,2027-01-16,100505
+1747,116,Headphones,Electronics,East,3,28930.0,Credit Card,2027-01-17,86790
+1748,202,Keyboard,Electronics,North,1,6509.0,Credit Card,2027-01-18,6509
+1749,252,Headphones,Electronics,West,5,5052.0,Credit Card,2027-01-19,25260
+1750,256,Mobile,Accessories,West,2,9917.0,Credit Card,2027-01-20,19834
+1751,217,Tablet,Computers,North,1,42489.0,UPI,2027-01-21,42489
+1752,108,Headphones,Computers,North,4,3171.0,Cash,2027-01-22,12684
+1753,222,Laptop,Computers,North,3,7019.0,Cash,2027-01-23,21057
+1754,192,Laptop,Accessories,North,1,37230.0,UPI,2027-01-24,37230
+1755,264,Headphones,Computers,North,1,13234.0,UPI,2027-01-25,13234
+1756,190,Headphones,Accessories,West,5,46390.0,Debit Card,2027-01-26,231950
+1757,236,Headphones,Computers,West,5,4222.0,Debit Card,2027-01-27,21110
+1758,286,Laptop,Computers,East,5,5406.0,Debit Card,2027-01-28,27030
+1759,160,Laptop,Electronics,East,4,30596.0,Credit Card,2027-01-29,122384
+1760,278,Headphones,Accessories,South,5,40531.0,Debit Card,2027-01-30,202655
+1761,128,Keyboard,Electronics,East,1,14199.0,Cash,2027-01-31,14199
+1762,201,Keyboard,Electronics,East,5,21938.0,Credit Card,2027-02-01,109690
+1763,141,Mobile,Electronics,North,2,44356.0,Debit Card,2027-02-02,88712
+1764,292,Tablet,Accessories,North,5,34076.0,Credit Card,2027-02-03,170380
+1765,255,Keyboard,Accessories,East,4,42438.0,Cash,2027-02-04,169752
+1766,291,Laptop,Computers,South,2,49528.0,Debit Card,2027-02-05,99056
+1767,245,Keyboard,Electronics,North,1,32747.0,Cash,2027-02-06,32747
+1768,261,Mobile,Computers,East,1,43961.0,Cash,2027-02-07,43961
+1769,257,Mobile,Electronics,East,3,28438.0,Cash,2027-02-08,85314
+1770,241,Tablet,Accessories,West,2,40969.0,Debit Card,2027-02-09,81938
+1771,146,Keyboard,Accessories,South,3,18100.0,UPI,2027-02-10,54300
+1772,135,Laptop,Accessories,West,2,20935.0,Debit Card,2027-02-11,41870
+1773,234,Laptop,Electronics,South,2,19081.0,Cash,2027-02-12,38162
+1774,182,Headphones,Accessories,North,4,14691.0,Debit Card,2027-02-13,58764
+1775,215,Laptop,Electronics,South,3,19690.0,Cash,2027-02-14,59070
+1776,297,Tablet,Computers,East,4,27886.0,UPI,2027-02-15,111544
+1777,147,Tablet,Electronics,East,2,32221.0,Credit Card,2027-02-16,64442
+1778,253,Laptop,Computers,South,1,14204.0,UPI,2027-02-17,14204
+1779,294,Laptop,Electronics,South,2,2623.0,UPI,2027-02-18,5246
+1780,110,Headphones,Computers,South,4,25674.0,Credit Card,2027-02-19,102696
+1781,156,Laptop,Accessories,West,3,44801.0,Debit Card,2027-02-20,134403
+1782,130,Headphones,Computers,South,3,49876.0,Credit Card,2027-02-21,149628
+1783,209,Headphones,Accessories,North,4,47716.0,Debit Card,2027-02-22,190864
+1784,105,Laptop,Accessories,West,3,15086.0,Debit Card,2027-02-23,45258
+1785,219,Mobile,Computers,West,5,32476.0,Cash,2027-02-24,162380
+1786,133,Mobile,Electronics,South,1,25916.0,Cash,2027-02-25,25916
+1787,218,Headphones,Electronics,North,1,2314.0,Credit Card,2027-02-26,2314
+1788,165,Laptop,Electronics,West,1,13501.0,UPI,2027-02-27,13501
+1789,246,Mobile,Electronics,East,3,17008.0,Credit Card,2027-02-28,51024
+1790,277,Laptop,Electronics,West,3,20130.0,Debit Card,2027-03-01,60390
+1791,111,Laptop,Accessories,South,2,13880.0,Cash,2027-03-02,27760
+1792,185,Laptop,Electronics,North,2,48674.0,Credit Card,2027-03-03,97348
+1793,126,Keyboard,Accessories,South,1,36199.0,Credit Card,2027-03-04,36199
+1794,163,Laptop,Accessories,East,5,46835.0,Cash,2027-03-05,234175
+1795,186,Keyboard,Accessories,East,2,47306.0,Cash,2027-03-06,94612
+1796,159,Headphones,Computers,East,2,12817.0,Cash,2027-03-07,25634
+1797,127,Mobile,Computers,South,3,36239.0,Debit Card,2027-03-08,108717
+1798,277,Mobile,Accessories,West,5,35285.0,Cash,2027-03-09,176425
+1799,261,Mobile,Computers,South,1,32480.0,UPI,2027-03-10,32480
+1800,198,Mobile,Electronics,North,2,24299.0,Credit Card,2027-03-11,48598
+1801,205,Mobile,Electronics,West,5,35683.0,Cash,2027-03-12,178415
+1802,199,Mobile,Accessories,East,5,29666.0,Cash,2027-03-13,148330
+1803,229,Mobile,Electronics,South,1,19980.0,Debit Card,2027-03-14,19980
+1804,249,Headphones,Accessories,East,5,2109.0,Debit Card,2027-03-15,10545
+1805,155,Laptop,Accessories,East,5,1217.0,Credit Card,2027-03-16,6085
+1806,106,Tablet,Electronics,North,5,20445.0,UPI,2027-03-17,102225
+1807,297,Keyboard,Computers,West,2,26092.0,Credit Card,2027-03-18,52184
+1808,195,Tablet,Electronics,North,1,28641.0,Cash,2027-03-19,28641
+1809,233,Tablet,Electronics,North,5,30509.0,UPI,2027-03-20,152545
+1810,202,Laptop,Accessories,North,5,45930.0,UPI,2027-03-21,229650
+1811,103,Laptop,Accessories,East,2,7282.0,UPI,2027-03-22,14564
+1812,281,Laptop,Accessories,North,1,27036.0,UPI,2027-03-23,27036
+1813,123,Mobile,Accessories,North,3,34316.0,Credit Card,2027-03-24,102948
+1814,153,Headphones,Computers,West,2,26433.0,Debit Card,2027-03-25,52866
+1815,265,Mobile,Computers,West,1,12118.0,Debit Card,2027-03-26,12118
+1816,183,Headphones,Computers,North,5,8807.0,Cash,2027-03-27,44035
+1817,245,Headphones,Accessories,West,1,27171.0,Debit Card,2027-03-28,27171
+1818,185,Tablet,Accessories,West,1,41173.0,Debit Card,2027-03-29,41173
+1819,178,Tablet,Accessories,North,1,43261.0,Debit Card,2027-03-30,43261
+1820,210,Headphones,Computers,East,3,10838.0,Debit Card,2027-03-31,32514
+1821,101,Headphones,Accessories,North,1,38846.0,Cash,2027-04-01,38846
+1822,151,Mobile,Electronics,West,3,47102.0,Credit Card,2027-04-02,141306
+1823,273,Mobile,Electronics,East,5,7048.0,UPI,2027-04-03,35240
+1824,104,Tablet,Accessories,South,3,40649.0,Debit Card,2027-04-04,121947
+1825,290,Laptop,Electronics,East,5,21664.0,Credit Card,2027-04-05,108320
+1826,293,Headphones,Electronics,West,5,28026.0,Debit Card,2027-04-06,140130
+1827,213,Mobile,Computers,East,3,31722.0,Debit Card,2027-04-07,95166
+1828,132,Tablet,Accessories,North,2,20676.0,UPI,2027-04-08,41352
+1829,134,Mobile,Accessories,South,4,3441.0,UPI,2027-04-09,13764
+1830,192,Headphones,Computers,South,1,6195.0,UPI,2027-04-10,6195
+1831,195,Headphones,Electronics,South,4,39669.0,Debit Card,2027-04-11,158676
+1832,172,Keyboard,Electronics,West,1,48447.0,Debit Card,2027-04-12,48447
+1833,139,Laptop,Accessories,West,1,47724.0,Debit Card,2027-04-13,47724
+1834,254,Keyboard,Electronics,South,5,46365.0,UPI,2027-04-14,231825
+1835,262,Tablet,Computers,East,1,26053.0,Cash,2027-04-15,26053
+1836,282,Mobile,Computers,South,1,39465.0,Credit Card,2027-04-16,39465
+1837,218,Tablet,Accessories,East,3,38718.0,Cash,2027-04-17,116154
+1838,103,Headphones,Computers,East,4,25859.0,Debit Card,2027-04-18,103436
+1839,223,Keyboard,Computers,West,3,25316.0,Debit Card,2027-04-19,75948
+1840,150,Keyboard,Accessories,East,1,8878.0,Cash,2027-04-20,8878
+1841,112,Keyboard,Computers,South,5,2381.0,Debit Card,2027-04-21,11905
+1842,293,Tablet,Computers,West,3,40067.0,Credit Card,2027-04-22,120201
+1843,154,Headphones,Computers,North,3,47865.0,Debit Card,2027-04-23,143595
+1844,233,Mobile,Electronics,North,2,14175.0,Credit Card,2027-04-24,28350
+1845,157,Mobile,Accessories,West,1,5086.0,Cash,2027-04-25,5086
+1846,245,Tablet,Accessories,South,5,25506.0,Cash,2027-04-26,127530
+1847,212,Keyboard,Accessories,North,3,41698.0,Debit Card,2027-04-27,125094
+1848,147,Laptop,Electronics,North,3,23331.0,Credit Card,2027-04-28,69993
+1849,251,Tablet,Electronics,East,5,35613.0,Debit Card,2027-04-29,178065
+1850,185,Tablet,Accessories,East,1,16959.0,UPI,2027-04-30,16959
+1851,242,Headphones,Electronics,South,2,32943.0,UPI,2027-05-01,65886
+1852,166,Mobile,Accessories,West,3,42816.0,UPI,2027-05-02,128448
+1853,175,Tablet,Electronics,South,2,31095.0,UPI,2027-05-03,62190
+1854,279,Tablet,Computers,West,4,6377.0,Debit Card,2027-05-04,25508
+1855,203,Keyboard,Computers,North,1,40053.0,UPI,2027-05-05,40053
+1856,266,Keyboard,Accessories,East,4,49101.0,Credit Card,2027-05-06,196404
+1857,292,Laptop,Electronics,South,4,5422.0,Cash,2027-05-07,21688
+1858,138,Headphones,Electronics,South,4,5186.0,Cash,2027-05-08,20744
+1859,150,Laptop,Computers,West,1,33266.0,UPI,2027-05-09,33266
+1860,198,Keyboard,Computers,West,1,14907.0,UPI,2027-05-10,14907
+1861,182,Mobile,Electronics,South,5,32506.0,UPI,2027-05-11,162530
+1862,130,Keyboard,Electronics,West,2,31922.0,Debit Card,2027-05-12,63844
+1863,179,Headphones,Electronics,South,2,12705.0,Cash,2027-05-13,25410
+1864,191,Keyboard,Electronics,South,5,21554.0,UPI,2027-05-14,107770
+1865,279,Headphones,Electronics,South,5,24027.0,Credit Card,2027-05-15,120135
+1866,291,Headphones,Electronics,North,4,46447.0,UPI,2027-05-16,185788
+1867,152,Headphones,Accessories,West,5,18943.0,Cash,2027-05-17,94715
+1868,266,Headphones,Electronics,East,3,17024.0,UPI,2027-05-18,51072
+1869,179,Headphones,Computers,East,2,28702.0,Cash,2027-05-19,57404
+1870,130,Mobile,Accessories,West,5,516.0,UPI,2027-05-20,2580
+1871,206,Laptop,Electronics,South,3,46642.0,Credit Card,2027-05-21,139926
+1872,151,Tablet,Computers,East,3,17348.0,UPI,2027-05-22,52044
+1873,181,Laptop,Accessories,East,3,21355.0,Credit Card,2027-05-23,64065
+1874,233,Headphones,Computers,West,3,18711.0,Credit Card,2027-05-24,56133
+1875,129,Mobile,Electronics,East,4,25595.0,UPI,2027-05-25,102380
+1876,232,Keyboard,Electronics,South,3,39224.0,Credit Card,2027-05-26,117672
+1877,238,Mobile,Electronics,West,4,49741.0,Debit Card,2027-05-27,198964
+1878,284,Headphones,Electronics,South,4,38083.0,UPI,2027-05-28,152332
+1879,245,Mobile,Accessories,East,3,3343.0,UPI,2027-05-29,10029
+1880,174,Mobile,Accessories,East,2,29801.0,Credit Card,2027-05-30,59602
+1881,117,Headphones,Computers,South,3,26960.0,Credit Card,2027-05-31,80880
+1882,184,Mobile,Electronics,North,3,32418.0,UPI,2027-06-01,97254
+1883,169,Tablet,Computers,East,3,29247.0,Debit Card,2027-06-02,87741
+1884,134,Tablet,Accessories,North,2,16472.0,Credit Card,2027-06-03,32944
+1885,106,Mobile,Electronics,East,1,28810.0,Credit Card,2027-06-04,28810
+1886,153,Keyboard,Electronics,North,1,23427.0,Cash,2027-06-05,23427
+1887,294,Headphones,Accessories,North,4,1594.0,Debit Card,2027-06-06,6376
+1888,226,Tablet,Accessories,North,4,39392.0,Debit Card,2027-06-07,157568
+1889,143,Keyboard,Accessories,South,2,34672.0,UPI,2027-06-08,69344
+1890,215,Mobile,Accessories,North,5,23824.0,Debit Card,2027-06-09,119120
+1891,211,Keyboard,Accessories,North,1,21174.0,UPI,2027-06-10,21174
+1892,251,Laptop,Electronics,North,4,4482.0,Cash,2027-06-11,17928
+1893,283,Tablet,Accessories,East,1,45783.0,Debit Card,2027-06-12,45783
+1894,180,Mobile,Electronics,North,2,16290.0,Credit Card,2027-06-13,32580
+1895,195,Headphones,Electronics,East,2,12705.0,Cash,2027-06-14,25410
+1896,218,Mobile,Accessories,North,5,24838.0,UPI,2027-06-15,124190
+1897,244,Headphones,Accessories,North,5,13248.0,Cash,2027-06-16,66240
+1898,108,Mobile,Electronics,South,2,21597.0,UPI,2027-06-17,43194
+1899,232,Keyboard,Accessories,East,4,3592.0,Cash,2027-06-18,14368
+1900,204,Keyboard,Accessories,North,1,23192.0,UPI,2027-06-19,23192
+1901,232,Keyboard,Accessories,East,3,24362.0,Debit Card,2027-06-20,73086
+1902,284,Laptop,Computers,East,5,25360.0,Credit Card,2027-06-21,126800
+1903,125,Headphones,Electronics,West,3,14471.0,UPI,2027-06-22,43413
+1904,295,Keyboard,Computers,South,4,15116.0,Cash,2027-06-23,60464
+1905,196,Laptop,Accessories,South,5,5433.0,UPI,2027-06-24,27165
+1906,295,Headphones,Computers,South,3,5426.0,UPI,2027-06-25,16278
+1907,255,Mobile,Accessories,West,4,26263.0,UPI,2027-06-26,105052
+1908,193,Laptop,Computers,West,1,4469.0,Cash,2027-06-27,4469
+1909,260,Tablet,Accessories,South,4,36233.0,Credit Card,2027-06-28,144932
+1910,278,Laptop,Computers,West,5,4819.0,Debit Card,2027-06-29,24095
+1911,161,Laptop,Computers,West,2,42243.0,Credit Card,2027-06-30,84486
+1912,222,Headphones,Computers,West,1,40376.0,UPI,2027-07-01,40376
+1913,151,Mobile,Electronics,South,3,42409.0,Cash,2027-07-02,127227
+1914,247,Tablet,Computers,South,5,20823.0,Credit Card,2027-07-03,104115
+1915,121,Keyboard,Electronics,South,2,16928.0,UPI,2027-07-04,33856
+1916,105,Keyboard,Accessories,West,4,35078.0,Debit Card,2027-07-05,140312
+1917,192,Laptop,Computers,South,2,21450.0,Debit Card,2027-07-06,42900
+1918,270,Headphones,Accessories,West,5,43541.0,Debit Card,2027-07-07,217705
+1919,161,Headphones,Accessories,North,5,42289.0,UPI,2027-07-08,211445
+1920,122,Keyboard,Computers,West,2,18793.0,Cash,2027-07-09,37586
+1921,249,Tablet,Electronics,East,4,6864.0,Credit Card,2027-07-10,27456
+1922,170,Mobile,Computers,South,2,35849.0,Debit Card,2027-07-11,71698
+1923,101,Tablet,Accessories,South,5,1191.0,UPI,2027-07-12,5955
+1924,233,Mobile,Accessories,East,5,30562.0,UPI,2027-07-13,152810
+1925,112,Keyboard,Computers,West,3,1431.0,Credit Card,2027-07-14,4293
+1926,190,Mobile,Electronics,North,3,46396.0,Debit Card,2027-07-15,139188
+1927,146,Headphones,Electronics,East,1,32230.0,UPI,2027-07-16,32230
+1928,134,Laptop,Accessories,East,5,14726.0,Credit Card,2027-07-17,73630
+1929,277,Laptop,Accessories,West,3,14361.0,Cash,2027-07-18,43083
+1930,178,Keyboard,Electronics,South,2,31801.0,Cash,2027-07-19,63602
+1931,145,Headphones,Computers,West,4,48743.0,Cash,2027-07-20,194972
+1932,255,Tablet,Accessories,East,2,23266.0,Debit Card,2027-07-21,46532
+1933,173,Headphones,Electronics,East,4,36674.0,Credit Card,2027-07-22,146696
+1934,126,Laptop,Accessories,South,3,41607.0,Credit Card,2027-07-23,124821
+1935,147,Laptop,Computers,South,1,18195.0,UPI,2027-07-24,18195
+1936,221,Headphones,Electronics,South,2,41847.0,UPI,2027-07-25,83694
+1937,156,Headphones,Accessories,West,2,3621.0,UPI,2027-07-26,7242
+1938,194,Laptop,Computers,South,2,18757.0,Credit Card,2027-07-27,37514
+1939,207,Tablet,Accessories,East,4,28664.0,UPI,2027-07-28,114656
+1940,163,Keyboard,Computers,East,3,25991.0,Credit Card,2027-07-29,77973
+1941,148,Keyboard,Computers,North,2,23665.0,Credit Card,2027-07-30,47330
+1942,161,Headphones,Electronics,West,2,49214.0,Cash,2027-07-31,98428
+1943,181,Keyboard,Computers,North,1,4248.0,UPI,2027-08-01,4248
+1944,126,Laptop,Accessories,East,1,33545.0,Cash,2027-08-02,33545
+1945,136,Laptop,Computers,North,3,27053.0,Debit Card,2027-08-03,81159
+1946,101,Headphones,Computers,East,3,44831.0,Debit Card,2027-08-04,134493
+1947,108,Headphones,Electronics,North,5,30997.0,Debit Card,2027-08-05,154985
+1948,213,Headphones,Computers,South,1,31808.0,Credit Card,2027-08-06,31808
+1949,199,Tablet,Computers,North,5,40060.0,Credit Card,2027-08-07,200300
+1950,280,Keyboard,Accessories,South,4,47186.0,Credit Card,2027-08-08,188744
+1951,147,Headphones,Electronics,South,5,10874.0,UPI,2027-08-09,54370
+1952,227,Mobile,Electronics,West,2,5175.0,Cash,2027-08-10,10350
+1953,156,Mobile,Electronics,South,5,1670.0,Credit Card,2027-08-11,8350
+1954,114,Laptop,Computers,South,3,41949.0,Cash,2027-08-12,125847
+1955,128,Keyboard,Electronics,North,4,43985.0,Cash,2027-08-13,175940
+1956,178,Headphones,Computers,East,2,12950.0,Cash,2027-08-14,25900
+1957,230,Mobile,Computers,West,5,11180.0,UPI,2027-08-15,55900
+1958,209,Keyboard,Accessories,South,4,10568.0,UPI,2027-08-16,42272
+1959,254,Laptop,Accessories,West,4,35730.0,Debit Card,2027-08-17,142920
+1960,114,Tablet,Accessories,North,2,46918.0,Debit Card,2027-08-18,93836
+1961,287,Keyboard,Accessories,South,5,26706.0,Cash,2027-08-19,133530
+1962,156,Keyboard,Accessories,North,4,787.0,Debit Card,2027-08-20,3148
+1963,215,Tablet,Computers,West,4,22837.0,Cash,2027-08-21,91348
+1964,107,Keyboard,Computers,North,1,21166.0,UPI,2027-08-22,21166
+1965,103,Laptop,Electronics,West,4,1661.0,UPI,2027-08-23,6644
+1966,211,Laptop,Computers,North,1,49781.0,UPI,2027-08-24,49781
+1967,251,Tablet,Computers,West,5,35631.0,Credit Card,2027-08-25,178155
+1968,207,Headphones,Accessories,East,5,25035.0,Cash,2027-08-26,125175
+1969,118,Mobile,Computers,North,5,33028.0,UPI,2027-08-27,165140
+1970,138,Headphones,Accessories,North,3,39251.0,Cash,2027-08-28,117753
+1971,215,Keyboard,Electronics,East,5,17027.0,Debit Card,2027-08-29,85135
+1972,115,Mobile,Electronics,East,4,41475.0,Debit Card,2027-08-30,165900
+1973,292,Tablet,Computers,North,2,24353.0,UPI,2027-08-31,48706
+1974,219,Tablet,Electronics,East,1,15258.0,Cash,2027-09-01,15258
+1975,128,Mobile,Computers,South,3,744.0,UPI,2027-09-02,2232
+1976,139,Laptop,Electronics,West,5,3678.0,Debit Card,2027-09-03,18390
+1977,285,Mobile,Accessories,West,5,32331.0,UPI,2027-09-04,161655
+1978,117,Keyboard,Accessories,West,2,2676.0,Cash,2027-09-05,5352
+1979,186,Laptop,Accessories,South,2,38270.0,Debit Card,2027-09-06,76540
+1980,226,Tablet,Accessories,East,3,34154.0,Credit Card,2027-09-07,102462
+1981,144,Mobile,Computers,East,1,27127.0,Debit Card,2027-09-08,27127
+1982,125,Headphones,Electronics,North,5,46989.0,Credit Card,2027-09-09,234945
+1983,245,Headphones,Computers,East,3,45410.0,UPI,2027-09-10,136230
+1984,113,Keyboard,Accessories,North,4,25381.0,UPI,2027-09-11,101524
+1985,125,Headphones,Computers,South,4,35922.0,Cash,2027-09-12,143688
+1986,168,Mobile,Electronics,West,3,12484.0,Credit Card,2027-09-13,37452
+1987,238,Mobile,Computers,West,5,24276.0,UPI,2027-09-14,121380
+1988,167,Headphones,Electronics,West,3,18255.0,Credit Card,2027-09-15,54765
+1989,209,Mobile,Computers,East,5,7635.0,UPI,2027-09-16,38175
+1990,246,Keyboard,Electronics,North,2,820.0,Debit Card,2027-09-17,1640
+1991,211,Laptop,Electronics,North,3,37922.0,UPI,2027-09-18,113766
+1992,211,Keyboard,Accessories,South,5,29135.0,Cash,2027-09-19,145675
+1993,134,Keyboard,Electronics,East,3,22184.0,Debit Card,2027-09-20,66552
+1994,211,Mobile,Accessories,South,3,23738.0,Cash,2027-09-21,71214
+1995,108,Laptop,Accessories,North,5,22389.0,Debit Card,2027-09-22,111945
+1996,268,Mobile,Accessories,North,5,30813.0,Credit Card,2027-09-23,154065
+1997,213,Tablet,Computers,West,1,33035.0,Cash,2027-09-24,33035
+1998,183,Mobile,Computers,East,3,49399.0,UPI,2027-09-25,148197
+1999,142,Mobile,Computers,North,4,11270.0,Credit Card,2027-09-26,45080
+2000,269,Mobile,Computers,West,3,39821.0,UPI,2027-09-27,119463
+1001,203,Keyboard,Electronics,North,2,5094.0,Debit Card,2025-01-01,10188
+1002,280,Headphones,Accessories,North,5,26025.0,Cash,2025-01-02,130125
+1003,193,Mobile,Computers,East,5,14782.0,Credit Card,2025-01-03,73910
+1004,115,Mobile,Electronics,North,3,49553.0,Debit Card,2025-01-04,148659
+1005,207,Tablet,Computers,West,5,14834.0,Debit Card,2025-01-05,74170
